@@ -1,0 +1,3424 @@
+[{
+        "header": "js-newbee/taro-yanxuan",
+        "url": "https://github.com/js-newbee/taro-yanxuan",
+        "star": "2479",
+        "language": "JavaScript",
+        "description": "首个Taro多端统一实例-网易严选（小程序+H5+ReactNative）-By趣店FED"
+    },
+    {
+        "header": "NervJS/awesome-taro",
+        "url": "https://github.com/NervJS/awesome-taro",
+        "star": "2335",
+        "language": "",
+        "description": "多端统一开发框架Taro优秀学习资源汇总"
+    },
+    {
+        "header": "rick-and-morty-wiki/rick-and-morty-wiki",
+        "url": "https://github.com/rick-and-morty-wiki/rick-and-morty-wiki",
+        "star": "54",
+        "language": "TypeScript",
+        "description": "基于Taro3.2+的多端统一项目-支持ReactNative、Weapp、H5"
+    },
+    {
+        "header": "MrRio/DOCX.js",
+        "url": "https://github.com/MrRio/DOCX.js",
+        "star": "153",
+        "language": "JavaScript",
+        "description": "GenerateMicrosoftWordDOCXfilesinpureclient-sideJavaScript.TryinChrome"
+    },
+    {
+        "header": "pdeitel/PythonForProgrammers",
+        "url": "https://github.com/pdeitel/PythonForProgrammers",
+        "star": "132",
+        "language": "",
+        "description": "FilesassociatedwithourbookPythonforProgrammers"
+    },
+    {
+        "header": "madscheme/introducing-python",
+        "url": "https://github.com/madscheme/introducing-python",
+        "star": "614",
+        "language": "Python",
+        "description": "AnintroductiontoPython"
+    },
+    {
+        "header": "wangzhengya/allitebooks",
+        "url": "https://github.com/wangzhengya/allitebooks",
+        "star": "168",
+        "language": "JavaScript",
+        "description": "爬取AllITeBook网站的书籍下载链接"
+    },
+    {
+        "header": "jindw/xmldom",
+        "url": "https://github.com/jindw/xmldom",
+        "star": "803",
+        "language": "JavaScript",
+        "description": "APUREJSW3CStandardbased(XMLDOMLevel2CORE)DOMParserandXMLSerializer."
+    },
+    {
+        "header": "buglabs/node-xml2json",
+        "url": "https://github.com/buglabs/node-xml2json",
+        "star": "799",
+        "language": "JavaScript",
+        "description": "ConvertsXMLtoJSONusingnode-expat"
+    },
+    {
+        "header": "Leonidas-from-XIV/node-xml2js",
+        "url": "https://github.com/Leonidas-from-XIV/node-xml2js",
+        "star": "4545",
+        "language": "CoffeeScript",
+        "description": "XMLtoJavaScriptobjectconverter."
+    },
+    {
+        "header": "jiteshkumawat/oxml.js",
+        "url": "https://github.com/jiteshkumawat/oxml.js",
+        "star": "18",
+        "language": "JavaScript",
+        "description": "JavascriptlibraryforcreatingandmanipulatingOpenXMLDocumentslikedocx,xlsx,etc.Usercanexportgriddataorimagestoopenxmldocumentsusingthislibrary."
+    },
+    {
+        "header": "colorhook/jsxml",
+        "url": "https://github.com/colorhook/jsxml",
+        "star": "27",
+        "language": "JavaScript",
+        "description": "jsxmlisanXMLlibraryforjavascriptandnode"
+    },
+    {
+        "header": "Stuk/jszip",
+        "url": "https://github.com/Stuk/jszip",
+        "star": "8159",
+        "language": "JavaScript",
+        "description": "Create,readandedit.zipfileswithJavascript"
+    },
+    {
+        "header": "scrapy-plugins/scrapy-splash",
+        "url": "https://github.com/scrapy-plugins/scrapy-splash",
+        "star": "2781",
+        "language": "Python",
+        "description": "Scrapy+SplashforJavaScriptintegration"
+    },
+    {
+        "header": "scrapinghub/splash",
+        "url": "https://github.com/scrapinghub/splash",
+        "star": "3651",
+        "language": "Python",
+        "description": "Lightweight,scriptablebrowserasaservicewithanHTTPAPI"
+    },
+    {
+        "header": "microsoft/playwright-python",
+        "url": "https://github.com/microsoft/playwright-python",
+        "star": "6673",
+        "language": "Python",
+        "description": "PythonversionofthePlaywrighttestingandautomationlibrary."
+    },
+    {
+        "header": "imakewebthings/deck.js",
+        "url": "https://github.com/imakewebthings/deck.js",
+        "star": "5421",
+        "language": "JavaScript",
+        "description": "ModernHTMLPresentations"
+    },
+    {
+        "header": "henrikingo/impressionist",
+        "url": "https://github.com/henrikingo/impressionist",
+        "star": "173",
+        "language": "JavaScript",
+        "description": "AVisual3Deditorforcreatingstunningimpress.jspresentations"
+    },
+    {
+        "header": "wanglin2/mind-map",
+        "url": "https://github.com/wanglin2/mind-map",
+        "star": "77",
+        "language": "JavaScript",
+        "description": "一个web思维导图的实现。"
+    },
+    {
+        "header": "bethrobson/Head-First-HTML",
+        "url": "https://github.com/bethrobson/Head-First-HTML",
+        "star": "507",
+        "language": "HTML",
+        "description": "Codeforthe2ndeditionofHeadFirstHTMLandCSS"
+    },
+    {
+        "header": "vesoft-inc/nebula",
+        "url": "https://github.com/vesoft-inc/nebula",
+        "star": "7715",
+        "language": "C++",
+        "description": "Adistributed,fastopen-sourcegraphdatabasefeaturinghorizontalscalabilityandhighavailability"
+    },
+    {
+        "header": "oreillymedia/svg-essentials-examples",
+        "url": "https://github.com/oreillymedia/svg-essentials-examples",
+        "star": "132",
+        "language": "HTML",
+        "description": ""
+    },
+    {
+        "header": "kinginsun/Enterprise-Registration-Data-of-Chinese-Mainland",
+        "url": "https://github.com/kinginsun/Enterprise-Registration-Data-of-Chinese-Mainland",
+        "star": "66",
+        "language": "",
+        "description": ""
+    },
+    {
+        "header": "yanceyblog/scrapy-review",
+        "url": "https://github.com/yanceyblog/scrapy-review",
+        "star": "6",
+        "language": "Python",
+        "description": "实现爬取豆瓣某个音乐下所有乐评的scrapy爬虫"
+    },
+    {
+        "header": "teeworlds/teeworlds",
+        "url": "https://github.com/teeworlds/teeworlds",
+        "star": "1938",
+        "language": "C++",
+        "description": "Aretromultiplayershooter"
+    },
+    {
+        "header": "cocos2d/cocos2d-html5",
+        "url": "https://github.com/cocos2d/cocos2d-html5",
+        "star": "2900",
+        "language": "JavaScript",
+        "description": "Cocos2dforWebBrowsers.BuiltusingJavaScript."
+    },
+    {
+        "header": "nukeop/nuclear",
+        "url": "https://github.com/nukeop/nuclear",
+        "star": "9120",
+        "language": "TypeScript",
+        "description": "Streamingmusicplayerthatfindsfreemusicforyou"
+    },
+    {
+        "header": "maomao1996/react-music",
+        "url": "https://github.com/maomao1996/react-music",
+        "star": "294",
+        "language": "JavaScript",
+        "description": "基于React的在线音乐播放器（移动端高仿安卓网易云音乐）（重构是不可能的，这辈子都不会用hooks重构）"
+    },
+    {
+        "header": "maomao1996/Vue-mmPlayer",
+        "url": "https://github.com/maomao1996/Vue-mmPlayer",
+        "star": "1804",
+        "language": "Vue",
+        "description": "🎵基于Vue的在线音乐播放器（PC）Onlinemusicplayer"
+    },
+    {
+        "header": "unlock-music/unlock-music",
+        "url": "https://github.com/unlock-music/unlock-music",
+        "star": "12652",
+        "language": "",
+        "description": "Unlockencryptedmusicfileinbrowser.在浏览器中解锁加密的音乐文件。"
+    },
+    {
+        "header": "xmindltd/xmind-viewer",
+        "url": "https://github.com/xmindltd/xmind-viewer",
+        "star": "61",
+        "language": "TypeScript",
+        "description": "XMindViewer,isalightweightlibrarytoparsea.xmindfileandrenderitinSVG."
+    },
+    {
+        "header": "andyqier88/tree",
+        "url": "https://github.com/andyqier88/tree",
+        "star": "7",
+        "language": "Vue",
+        "description": "drawapeachtreebycanvas,apeachtree'sscenesthroughouttheyear"
+    },
+    {
+        "header": "inception-project/inception",
+        "url": "https://github.com/inception-project/inception",
+        "star": "426",
+        "language": "Java",
+        "description": "INCEpTIONprovidesasemanticannotationplatformofferingintelligentannotationassistanceandknowledgemanagement."
+    },
+    {
+        "header": "le0pard/sql-joins-app",
+        "url": "https://github.com/le0pard/sql-joins-app",
+        "star": "236",
+        "language": "Svelte",
+        "description": "SQLJOINSvisualizer"
+    },
+    {
+        "header": "zgwit/iot-master",
+        "url": "https://github.com/zgwit/iot-master",
+        "star": "161",
+        "language": "TypeScript",
+        "description": "物联大师是开源免费的物联网智能网关系统，集成了标准Modbus和主流PLC等多种协议，支持数据采集、公式计算、定时控制、自动控制、异常报警、流量监控、Web组态、远程调试等功能，适用于大部分物联网和工业互联网应用场景。"
+    },
+    {
+        "header": "rchipka/node-osmosis",
+        "url": "https://github.com/rchipka/node-osmosis",
+        "star": "4034",
+        "language": "JavaScript",
+        "description": "WebscraperforNodeJS"
+    },
+    {
+        "header": "yujiosaka/headless-chrome-crawler",
+        "url": "https://github.com/yujiosaka/headless-chrome-crawler",
+        "star": "5261",
+        "language": "JavaScript",
+        "description": "DistributedcrawlerpoweredbyHeadlessChrome"
+    },
+    {
+        "header": "brendonboshell/supercrawler",
+        "url": "https://github.com/brendonboshell/supercrawler",
+        "star": "336",
+        "language": "JavaScript",
+        "description": "Awebcrawler.Supercrawlerautomaticallycrawlswebsites.Definecustomhandlerstoparsecontent.Obeysrobots.txt,ratelimitsandconcurrencylimits."
+    },
+    {
+        "header": "simplecrawler/simplecrawler",
+        "url": "https://github.com/simplecrawler/simplecrawler",
+        "star": "2121",
+        "language": "JavaScript",
+        "description": "Flexibleeventdrivencrawlerfornode."
+    },
+    {
+        "header": "bda-research/node-crawler",
+        "url": "https://github.com/bda-research/node-crawler",
+        "star": "6223",
+        "language": "JavaScript",
+        "description": "WebCrawler/SpiderforNodeJS+server-sidejQuery;-)"
+    },
+    {
+        "header": "weiyinfu/GithubStatistic",
+        "url": "https://github.com/weiyinfu/GithubStatistic",
+        "star": "41",
+        "language": "Less",
+        "description": "Github爬虫+数据分析+纯js技术栈"
+    },
+    {
+        "header": "adobe-webplatform/Snap.svg",
+        "url": "https://github.com/adobe-webplatform/Snap.svg",
+        "star": "13516",
+        "language": "JavaScript",
+        "description": "TheJavaScriptlibraryformodernSVGgraphics."
+    },
+    {
+        "header": "svgdotjs/svg.js",
+        "url": "https://github.com/svgdotjs/svg.js",
+        "star": "9736",
+        "language": "JavaScript",
+        "description": "ThelightweightlibraryformanipulatingandanimatingSVG"
+    },
+    {
+        "header": "NaoTu/DesktopNaotu",
+        "url": "https://github.com/NaoTu/DesktopNaotu",
+        "star": "3535",
+        "language": "TypeScript",
+        "description": "桌面版脑图(百度脑图离线版，思维导图)跨平台支持Windows/Linux/MacOS.(Across-platformmultilingualMindMapTool)"
+    },
+    {
+        "header": "hizzgdev/jsmind",
+        "url": "https://github.com/hizzgdev/jsmind",
+        "star": "2515",
+        "language": "JavaScript",
+        "description": "Javascriptversionofmindmapping"
+    },
+    {
+        "header": "fex-team/kityminder",
+        "url": "https://github.com/fex-team/kityminder",
+        "star": "4157",
+        "language": "JavaScript",
+        "description": "百度脑图"
+    },
+    {
+        "header": "gohugoio/hugo",
+        "url": "https://github.com/gohugoio/hugo",
+        "star": "60583",
+        "language": "Go",
+        "description": "Theworld’sfastestframeworkforbuildingwebsites."
+    },
+    {
+        "header": "webpack/webpack",
+        "url": "https://github.com/webpack/webpack",
+        "star": "61502",
+        "language": "JavaScript",
+        "description": "Abundlerforjavascriptandfriends.Packsmanymodulesintoafewbundledassets.CodeSplittingallowsforloadingpartsoftheapplicationondemand.Through\"loaders\",modulescanbeCommonJs,AMD,ES6modules,CSS,Images,JSON,Coffeescript,LESS,...andyourcustomstuff."
+    },
+    {
+        "header": "pavlobu/deskreen",
+        "url": "https://github.com/pavlobu/deskreen",
+        "star": "13230",
+        "language": "TypeScript",
+        "description": "Deskreenturnsanydevicewithawebbrowserintoasecondaryscreenforyourcomputer"
+    },
+    {
+        "header": "FullerHua/gooseeker",
+        "url": "https://github.com/FullerHua/gooseeker",
+        "star": "699",
+        "language": "Python",
+        "description": ""
+    },
+    {
+        "header": "SeleniumHQ/selenium",
+        "url": "https://github.com/SeleniumHQ/selenium",
+        "star": "24231",
+        "language": "Java",
+        "description": "Abrowserautomationframeworkandecosystem."
+    },
+    {
+        "header": "AutomaApp/automa",
+        "url": "https://github.com/AutomaApp/automa",
+        "star": "5066",
+        "language": "JavaScript",
+        "description": "Abrowserextensionforautomatingyourbrowserbyconnectingblocks"
+    },
+    {
+        "header": "ryanker/dream_downloads",
+        "url": "https://github.com/ryanker/dream_downloads",
+        "star": "5",
+        "language": "JavaScript",
+        "description": "一款轻量级网页资源下载器，可通过浏览器打包下载全部网页资源（JS/CSS/HTML/图片等）。"
+    },
+    {
+        "header": "danny0838/webscrapbook",
+        "url": "https://github.com/danny0838/webscrapbook",
+        "star": "587",
+        "language": "JavaScript",
+        "description": "Abrowserextensionthatcaptureswebpagestolocaldeviceorbackendserverforfutureretrieval,organization,annotation,andedit.ThisprojectinheritsfromlegacyFirefoxadd-onScrapBookX."
+    },
+    {
+        "header": "HMBSbige/NatTypeTester",
+        "url": "https://github.com/HMBSbige/NatTypeTester",
+        "star": "1036",
+        "language": "C#",
+        "description": "测试当前网络的NAT类型（STUN）"
+    },
+    {
+        "header": "hemaju/Wireboy.Socket.P2PSocket",
+        "url": "https://github.com/hemaju/Wireboy.Socket.P2PSocket",
+        "star": "1106",
+        "language": "C#",
+        "description": "P2P内网穿透，实现【公司】-【家】远程控制"
+    },
+    {
+        "header": "socketio/socket.io-p2p",
+        "url": "https://github.com/socketio/socket.io-p2p",
+        "star": "986",
+        "language": "JavaScript",
+        "description": ""
+    },
+    {
+        "header": "ryanker/dream_search",
+        "url": "https://github.com/ryanker/dream_search",
+        "star": "8",
+        "language": "JavaScript",
+        "description": "综合百度、谷歌、必应、360、搜狗、维基百科和百度百科搜索的Chrome扩展。"
+    },
+    {
+        "header": "aleksey-hoffman/sigma-file-manager",
+        "url": "https://github.com/aleksey-hoffman/sigma-file-manager",
+        "star": "895",
+        "language": "C",
+        "description": "\"SigmaFileManager\"isafree,open-source,quicklyevolving,modernfilemanager(explorer/finder)appforWindowsandLinux."
+    },
+    {
+        "header": "filegator/filegator",
+        "url": "https://github.com/filegator/filegator",
+        "star": "1143",
+        "language": "PHP",
+        "description": "PowerfulMulti-UserFileManager"
+    },
+    {
+        "header": "electerm/electerm",
+        "url": "https://github.com/electerm/electerm",
+        "star": "6872",
+        "language": "JavaScript",
+        "description": "📻Terminal/ssh/sftpclient(linux,mac,win)"
+    },
+    {
+        "header": "BaiduSpider/BaiduSpider",
+        "url": "https://github.com/BaiduSpider/BaiduSpider",
+        "star": "585",
+        "language": "Python",
+        "description": "BaiduSpider，一个爬取百度搜索结果的爬虫，目前支持百度网页搜索，百度图片搜索，百度知道搜索，百度视频搜索，百度资讯搜索，百度文库搜索，百度经验搜索和百度百科搜索。"
+    },
+    {
+        "header": "elastic/elasticsearch",
+        "url": "https://github.com/elastic/elasticsearch",
+        "star": "60577",
+        "language": "Java",
+        "description": "FreeandOpen,Distributed,RESTfulSearchEngine"
+    },
+    {
+        "header": "HelloGitHub-Team/Article",
+        "url": "https://github.com/HelloGitHub-Team/Article",
+        "star": "1390",
+        "language": "HTML",
+        "description": "讲解开源项目系列文章库"
+    },
+    {
+        "header": "sharkdp/fd",
+        "url": "https://github.com/sharkdp/fd",
+        "star": "23985",
+        "language": "Rust",
+        "description": "Asimple,fastanduser-friendlyalternativeto'find'"
+    },
+    {
+        "header": "jobbole/awesome-javascript-cn",
+        "url": "https://github.com/jobbole/awesome-javascript-cn",
+        "star": "7304",
+        "language": "",
+        "description": "JavaScript资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等。由「开源前哨」和「前端大全」微信公号团队维护更新。"
+    },
+    {
+        "header": "meilisearch/meilisearch",
+        "url": "https://github.com/meilisearch/meilisearch",
+        "star": "28266",
+        "language": "Rust",
+        "description": "Anopen-source,lightning-fast,andhyper-relevantsearchenginethatfitseffortlesslyintoyourapps,websites,andworkflow."
+    },
+    {
+        "header": "PacktPublishing/Full-Stack-React-Projects-Second-Edition",
+        "url": "https://github.com/PacktPublishing/Full-Stack-React-Projects-Second-Edition",
+        "star": "318",
+        "language": "JavaScript",
+        "description": "Full-StackReactProjects-SecondEdition,publishedbyPackt"
+    },
+    {
+        "header": "webview/webview",
+        "url": "https://github.com/webview/webview",
+        "star": "10303",
+        "language": "C",
+        "description": "Tinycross-platformwebviewlibraryforC/C++/Golang.UsesWebKit(Gtk/Cocoa)andEdge(Windows)"
+    },
+    {
+        "header": "impress/impress.js",
+        "url": "https://github.com/impress/impress.js",
+        "star": "36853",
+        "language": "JavaScript",
+        "description": "It'sapresentationframeworkbasedonthepowerofCSS3transformsandtransitionsinmodernbrowsersandinspiredbytheideabehindprezi.com."
+    },
+    {
+        "header": "sozi-projects/Sozi",
+        "url": "https://github.com/sozi-projects/Sozi",
+        "star": "1376",
+        "language": "JavaScript",
+        "description": "A\"zooming\"presentationeditor"
+    },
+    {
+        "header": "oldj/html5-tower-defense",
+        "url": "https://github.com/oldj/html5-tower-defense",
+        "star": "333",
+        "language": "JavaScript",
+        "description": "HTML5towerdefense"
+    },
+    {
+        "header": "bradtraversy/devconnector_2.0",
+        "url": "https://github.com/bradtraversy/devconnector_2.0",
+        "star": "1740",
+        "language": "JavaScript",
+        "description": "Socialnetworkfordevelopers,builtontheMERNstack"
+    },
+    {
+        "header": "webmakaka/MERN-Stack-Front-To-Back-v2.0",
+        "url": "https://github.com/webmakaka/MERN-Stack-Front-To-Back-v2.0",
+        "star": "12",
+        "language": "JavaScript",
+        "description": "[BradTraversy]MERNStackFrontToBack:FullStackReact,Redux&Node.js[ENG,2019]"
+    },
+    {
+        "header": "webmakaka/MERN-Stack-Front-To-Back",
+        "url": "https://github.com/webmakaka/MERN-Stack-Front-To-Back",
+        "star": "45",
+        "language": "JavaScript",
+        "description": "[BradTraversy]MERNStackFrontToBack:FullStackReact,Redux&Node.js[ENG,2018]"
+    },
+    {
+        "header": "basir/node-react-ecommerce",
+        "url": "https://github.com/basir/node-react-ecommerce",
+        "star": "1380",
+        "language": "JavaScript",
+        "description": "BuildECommerceWebsiteLikeAmazonByReact&Node&MongoDB"
+    },
+    {
+        "header": "meabhisingh/mernProjectEcommerce",
+        "url": "https://github.com/meabhisingh/mernProjectEcommerce",
+        "star": "374",
+        "language": "JavaScript",
+        "description": "ThisisMERNStackEcommerceProjectMadetoTeachMERNStackonYouTube"
+    },
+    {
+        "header": "gedoor/legado",
+        "url": "https://github.com/gedoor/legado",
+        "star": "9673",
+        "language": "Kotlin",
+        "description": "阅读3.0,阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。"
+    },
+    {
+        "header": "gedoor/MyBookshelf",
+        "url": "https://github.com/gedoor/MyBookshelf",
+        "star": "7276",
+        "language": "Java",
+        "description": "阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。"
+    },
+    {
+        "header": "gedoor/gedoor.github.io",
+        "url": "https://github.com/gedoor/gedoor.github.io",
+        "star": "41",
+        "language": "JavaScript",
+        "description": "网站"
+    },
+    {
+        "header": "CoatiSoftware/Sourcetrail",
+        "url": "https://github.com/CoatiSoftware/Sourcetrail",
+        "star": "12823",
+        "language": "C++",
+        "description": "Sourcetrail-freeandopen-sourceinteractivesourceexplorer"
+    },
+    {
+        "header": "iTranslateX/odoo-essentials",
+        "url": "https://github.com/iTranslateX/odoo-essentials",
+        "star": "24",
+        "language": "Python",
+        "description": "Odoo15开发手册中文版"
+    },
+    {
+        "header": "metasfresh/metasfresh-docker",
+        "url": "https://github.com/metasfresh/metasfresh-docker",
+        "star": "33",
+        "language": "Shell",
+        "description": ""
+    },
+    {
+        "header": "psych0der/HourGlass",
+        "url": "https://github.com/psych0der/HourGlass",
+        "star": "7",
+        "language": "JavaScript",
+        "description": "Simpletime-trackingwebappinMERNstack"
+    },
+    {
+        "header": "metasfresh/metasfresh",
+        "url": "https://github.com/metasfresh/metasfresh",
+        "star": "1155",
+        "language": "Java",
+        "description": "WedoOpenSourceERP-Fast,Flexible&FreeSoftwaretoscaleyourBusiness."
+    },
+    {
+        "header": "LLK/scratch-www",
+        "url": "https://github.com/LLK/scratch-www",
+        "star": "1368",
+        "language": "JavaScript",
+        "description": "StandalonewebclientforScratch"
+    },
+    {
+        "header": "GoogleLLP/SuperMarket",
+        "url": "https://github.com/GoogleLLP/SuperMarket",
+        "star": "1713",
+        "language": "Java",
+        "description": "设计精良的网上商城系统，包括前端、后端、数据库、负载均衡、数据库缓存、分库分表、读写分离、全文检索、消息队列等，使用SpringCloud框架，基于Java开发。该项目可部署到服务器上，不断完善中……"
+    },
+    {
+        "header": "roberthein/BouncyLayout",
+        "url": "https://github.com/roberthein/BouncyLayout",
+        "star": "4107",
+        "language": "Swift",
+        "description": "Make.It.Bounce."
+    },
+    {
+        "header": "camunda/camunda-bpm-platform",
+        "url": "https://github.com/camunda/camunda-bpm-platform",
+        "star": "2785",
+        "language": "Java",
+        "description": "FlexibleframeworkforworkflowanddecisionautomationwithBPMNandDMN.IntegrationwithSpring,SpringBoot,CDI."
+    },
+    {
+        "header": "Activiti/Activiti",
+        "url": "https://github.com/Activiti/Activiti",
+        "star": "8749",
+        "language": "Java",
+        "description": "Activitiisalight-weightworkflowandBusinessProcessManagement(BPM)Platformtargetedatbusinesspeople,developersandsystemadmins.Itscoreisasuper-fastandrock-solidBPMN2processengineforJava.It'sopen-sourceanddistributedundertheApachelicense.ActivitirunsinanyJavaapplication,onaserver,onaclusterorinthecloud.ItintegratesperfectlywithSpring,itisextremelylightweightandbasedonsimpleconcepts."
+    },
+    {
+        "header": "xkcoding/spring-boot-demo",
+        "url": "https://github.com/xkcoding/spring-boot-demo",
+        "star": "26251",
+        "language": "Java",
+        "description": "该项目已成功集成actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作Mybatis)、BeetlSQL(强大的ORM框架)、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类型邮件)、task(基础定时任务)、quartz(动态管理定时任务)、xxl-job(分布式定时任务)、swagger(API接口管理测试)、security(基于RBAC的动态权限认证)、SpringSession(Session共享)、Zookeeper(结合AOP实现分布式锁)、RabbitMQ(消息队列)、Kafka(消息队列)、websocket(服务端推送监控服务器运行信息)、socket.io(聊天室)、ureport2(中国式报表)、打包成war文件、集成ElasticSearch(基本操作和高级查询)、Async(异步任务)、集成Dubbo(采用官方的starter)、MongoDB(文档数据库)、neo4j(图数据库)、docker(容器化)、JPA多数据源、Mybatis多数据源、代码生成器、GrayLog(日志收集)、JustAuth(第三方登录)、LDAP(增删改查)、动态添加/切换数据源、单机限流(AOP+GuavaRateLimiter)、分布式限流(AOP+Redis+Lua)、ElasticSearch7.x(使用官方RestHighLevelClient)、HTTPS、Flyway(数据库初始化)、UReport2(中国式复杂报表)。"
+    },
+    {
+        "header": "CleverRaven/Cataclysm-DDA",
+        "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+        "star": "7386",
+        "language": "C++",
+        "description": "Cataclysm-DarkDaysAhead.Aturn-basedsurvivalgamesetinapost-apocalypticworld."
+    },
+    {
+        "header": "jeecgboot/jeecg-boot",
+        "url": "https://github.com/jeecgboot/jeecg-boot",
+        "star": "30269",
+        "language": "Java",
+        "description": "「企业级低代码平台」前后端分离架构SpringBoot2.x，SpringCloud，AntDesign&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码!引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。"
+    },
+    {
+        "header": "Snailclimb/JavaGuide",
+        "url": "https://github.com/Snailclimb/JavaGuide",
+        "star": "125753",
+        "language": "Java",
+        "description": "「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。准备Java面试，首选JavaGuide！"
+    },
+    {
+        "header": "resuminator/resuminator",
+        "url": "https://github.com/resuminator/resuminator",
+        "star": "224",
+        "language": "TypeScript",
+        "description": "Buildbeautifulsingle-pageresumes;withoutthehassle!Theeasiestresume-builderouttherewithintuitivedrag-n-drop&WYSIWYGeditor"
+    },
+    {
+        "header": "odoo/odoo",
+        "url": "https://github.com/odoo/odoo",
+        "star": "25795",
+        "language": "JavaScript",
+        "description": "Odoo.OpenSourceAppsToGrowYourBusiness."
+    },
+    {
+        "header": "elsewhencode/project-guidelines",
+        "url": "https://github.com/elsewhencode/project-guidelines",
+        "star": "27114",
+        "language": "JavaScript",
+        "description": "AsetofbestpracticesforJavaScriptprojects"
+    },
+    {
+        "header": "tobspr/shapez.io",
+        "url": "https://github.com/tobspr/shapez.io",
+        "star": "5144",
+        "language": "JavaScript",
+        "description": "shapezisanopensourcebasebuildinggameonSteaminspiredbyfactorio!"
+    },
+    {
+        "header": "vasansr/pro-mern-stack-2",
+        "url": "https://github.com/vasansr/pro-mern-stack-2",
+        "star": "241",
+        "language": "JavaScript",
+        "description": "CodelistingforthebookProMERNStack,2ndEdition"
+    },
+    {
+        "header": "mohamedsamara/mern-ecommerce",
+        "url": "https://github.com/mohamedsamara/mern-ecommerce",
+        "star": "651",
+        "language": "JavaScript",
+        "description": ":balloon:FullstackMERNEcommerceApplication"
+    },
+    {
+        "header": "jgraph/drawio-desktop",
+        "url": "https://github.com/jgraph/drawio-desktop",
+        "star": "31810",
+        "language": "Shell",
+        "description": "Officialelectronbuildofdraw.io"
+    },
+    {
+        "header": "jgraph/drawio",
+        "url": "https://github.com/jgraph/drawio",
+        "star": "30581",
+        "language": "JavaScript",
+        "description": "Sourcetoapp.diagrams.net"
+    },
+    {
+        "header": "getify/You-Dont-Know-JS",
+        "url": "https://github.com/getify/You-Dont-Know-JS",
+        "star": "156786",
+        "language": "",
+        "description": "AbookseriesonJavaScript.@YDKJSontwitter."
+    },
+    {
+        "header": "basir/amazona",
+        "url": "https://github.com/basir/amazona",
+        "star": "494",
+        "language": "JavaScript",
+        "description": "BuildEcommerceLikeAmazonByMERNStack"
+    },
+    {
+        "header": "davehowson/chat-app",
+        "url": "https://github.com/davehowson/chat-app",
+        "star": "227",
+        "language": "JavaScript",
+        "description": "MERNStackBasedChatApplication"
+    },
+    {
+        "header": "panshak/arc",
+        "url": "https://github.com/panshak/arc",
+        "star": "1168",
+        "language": "JavaScript",
+        "description": "FullstackopensourceInvoicingapplicationmadewithMongoDB,Express,React&Nodejs(MERN)"
+    },
+    {
+        "header": "twbs/bootstrap",
+        "url": "https://github.com/twbs/bootstrap",
+        "star": "158797",
+        "language": "JavaScript",
+        "description": "ThemostpopularHTML,CSS,andJavaScriptframeworkfordevelopingresponsive,mobilefirstprojectsontheweb."
+    },
+    {
+        "header": "inventree/InvenTree",
+        "url": "https://github.com/inventree/InvenTree",
+        "star": "1988",
+        "language": "Python",
+        "description": "OpenSourceInventoryManagementSystem"
+    },
+    {
+        "header": "dubenju/chgfldt",
+        "url": "https://github.com/dubenju/chgfldt",
+        "star": "3",
+        "language": "C++",
+        "description": "ChangeFileDateTime"
+    },
+    {
+        "header": "lbellonda/qxmledit",
+        "url": "https://github.com/lbellonda/qxmledit",
+        "star": "123",
+        "language": "C++",
+        "description": "QXmlEditXMLeditor.Downloads:https://sourceforge.net/projects/qxmledit/files"
+    },
+    {
+        "header": "jaredly/treed",
+        "url": "https://github.com/jaredly/treed",
+        "star": "1697",
+        "language": "JavaScript",
+        "description": "PowerfulTreeEditor"
+    },
+    {
+        "header": "indiff/qttabbar",
+        "url": "https://github.com/indiff/qttabbar",
+        "star": "2078",
+        "language": "C#",
+        "description": "QttabbarisasmalltoolthatallowsyoutousetabmultilabelfunctioninWindowsExplorer."
+    },
+    {
+        "header": "NervJS/taro",
+        "url": "https://github.com/NervJS/taro",
+        "star": "31365",
+        "language": "TypeScript",
+        "description": "开放式跨端跨框架解决方案，支持使用React/Vue/Nerv等框架来开发微信/京东/百度/支付宝/字节跳动/QQ小程序/H5/ReactNative等应用。https://taro.zone/"
+    },
+    {
+        "header": "tonybeltramelli/pix2code",
+        "url": "https://github.com/tonybeltramelli/pix2code",
+        "star": "11454",
+        "language": "Python",
+        "description": "pix2code:GeneratingCodefromaGraphicalUserInterfaceScreenshot"
+    },
+    {
+        "header": "lsqy/taro-music",
+        "url": "https://github.com/lsqy/taro-music",
+        "star": "1292",
+        "language": "TypeScript",
+        "description": "🎉基于taro+taro-ui+redux+react-hooks+typescript开发的网易云音乐小程序,taro3已升级完毕，目前正在使用react-hooks重构中（不定时更新）"
+    },
+    {
+        "header": "jiechud/taro-mall",
+        "url": "https://github.com/jiechud/taro-mall",
+        "star": "670",
+        "language": "JavaScript",
+        "description": "Taro_Mall是一款多端开源在线商城应用程序，后台是基于litemall基础上进行开发，前端采用Taro框架编写，现已全部完成小程序和h5移动端，后续会对APP，淘宝，头条，百度小程序进行适配。Taro_Mall已经完成了litemall前端的所有功能"
+    },
+    {
+        "header": "HeyiMaster/taro-book",
+        "url": "https://github.com/HeyiMaster/taro-book",
+        "star": "15",
+        "language": "JavaScript",
+        "description": "Taro多端开发实践书籍源码"
+    },
+    {
+        "header": "donle/sgs",
+        "url": "https://github.com/donle/sgs",
+        "star": "68",
+        "language": "TypeScript",
+        "description": ""
+    },
+    {
+        "header": "gaodayihao/QSanguosha",
+        "url": "https://github.com/gaodayihao/QSanguosha",
+        "star": "123",
+        "language": "C",
+        "description": "AnopensourceonlineversionofthefamousboardgameSanguosha"
+    },
+    {
+        "header": "sandboxie-plus/Sandboxie",
+        "url": "https://github.com/sandboxie-plus/Sandboxie",
+        "star": "7717",
+        "language": "C",
+        "description": "SandboxiePlus&Classic"
+    },
+    {
+        "header": "QL-Win/QuickLook",
+        "url": "https://github.com/QL-Win/QuickLook",
+        "star": "12020",
+        "language": "C#",
+        "description": "BringmacOS“QuickLook”featuretoWindows"
+    },
+    {
+        "header": "hotapp888/hotapp-notepad",
+        "url": "https://github.com/hotapp888/hotapp-notepad",
+        "star": "68",
+        "language": "JavaScript",
+        "description": "微信小程序--HotApp云笔记"
+    },
+    {
+        "header": "FastTunnel/FastTunnel",
+        "url": "https://github.com/FastTunnel/FastTunnel",
+        "star": "872",
+        "language": "C#",
+        "description": "exposealocalservertotheinternet.高性能跨平台的内网穿透解决方案远程内网计算机域名访问内网站点反向代理内网服务端口转发http代理"
+    },
+    {
+        "header": "mocaccinoOS/mocaccino",
+        "url": "https://github.com/mocaccinoOS/mocaccino",
+        "star": "36",
+        "language": "Go",
+        "description": ":musical_score:wheremagichappens"
+    },
+    {
+        "header": "thunisoft/unispim",
+        "url": "https://github.com/thunisoft/unispim",
+        "star": "675",
+        "language": "C",
+        "description": "华宇拼音输入法核心源码(sourcecodeofunispim)"
+    },
+    {
+        "header": "LouisYLWang/Sync-Sofa",
+        "url": "https://github.com/LouisYLWang/Sync-Sofa",
+        "star": "401",
+        "language": "Go",
+        "description": "co-playstreamingvideowithremotefriends!"
+    },
+    {
+        "header": "cboxdoerfer/fsearch",
+        "url": "https://github.com/cboxdoerfer/fsearch",
+        "star": "1973",
+        "language": "C",
+        "description": "AfastfilesearchutilityforUnix-likesystemsbasedonGTK+3"
+    },
+    {
+        "header": "pbatard/rufus",
+        "url": "https://github.com/pbatard/rufus",
+        "star": "19335",
+        "language": "C",
+        "description": "TheReliableUSBFormattingUtility"
+    },
+    {
+        "header": "astralapp/astral",
+        "url": "https://github.com/astralapp/astral",
+        "star": "2870",
+        "language": "PHP",
+        "description": "OrganizeYourGitHubStarsWithEase"
+    },
+    {
+        "header": "lvxianchao/the-fucking-github",
+        "url": "https://github.com/lvxianchao/the-fucking-github",
+        "star": "578",
+        "language": "Vue",
+        "description": "AChromeextensionforGithub.Viewstarredrepositories,organizingstars,searchingstarsandsearchingrepositoriesonlineforGithub。"
+    },
+    {
+        "header": "zenghongtu/Remu",
+        "url": "https://github.com/zenghongtu/Remu",
+        "star": "500",
+        "language": "TypeScript",
+        "description": "💥ChromeExtensionforGitHubthatviewstars/starhistory/organizingstarredrepository"
+    },
+    {
+        "header": "alphaonex86/Ultracopier",
+        "url": "https://github.com/alphaonex86/Ultracopier",
+        "star": "269",
+        "language": "C",
+        "description": "Ultracopieractsasareplacementforfilescopydialogs.Features:play/pause,speedlimitation,on-errorresume,error/collisionmanagement..."
+    },
+    {
+        "header": "Mapaler/FastCopy-M",
+        "url": "https://github.com/Mapaler/FastCopy-M",
+        "star": "665",
+        "language": "C++",
+        "description": "FastCopy-Multilanguage，FastCopy完整支持多国语言版"
+    },
+    {
+        "header": "Fluorohydride/ygopro",
+        "url": "https://github.com/Fluorohydride/ygopro",
+        "star": "1483",
+        "language": "C++",
+        "description": "Ascriptenginefor\"yu-gi-oh!\"andsamplegui"
+    },
+    {
+        "header": "minetest/minetest",
+        "url": "https://github.com/minetest/minetest",
+        "star": "7566",
+        "language": "C++",
+        "description": "Minetestisanopensourcevoxelgameenginewitheasymoddingandgamecreation"
+    },
+    {
+        "header": "Mogara/QSanguosha",
+        "url": "https://github.com/Mogara/QSanguosha",
+        "star": "890",
+        "language": "C++",
+        "description": "AnopensourceonlineversionofthefamousboardgameSanguosha"
+    },
+    {
+        "header": "insilmaril/vym",
+        "url": "https://github.com/insilmaril/vym",
+        "star": "42",
+        "language": "C++",
+        "description": "ViewYourMind"
+    },
+    {
+        "header": "microsoft/PowerToys",
+        "url": "https://github.com/microsoft/PowerToys",
+        "star": "75508",
+        "language": "C#",
+        "description": "Windowssystemutilitiestomaximizeproductivity"
+    },
+    {
+        "header": "maxdemarzi/neovigator",
+        "url": "https://github.com/maxdemarzi/neovigator",
+        "star": "162",
+        "language": "JavaScript",
+        "description": "DemovisualizationofNeo4jdata"
+    },
+    {
+        "header": "neo4j/neo4j",
+        "url": "https://github.com/neo4j/neo4j",
+        "star": "10258",
+        "language": "Java",
+        "description": "GraphsforEveryone"
+    },
+    {
+        "header": "dream7180/foobox-cn",
+        "url": "https://github.com/dream7180/foobox-cn",
+        "star": "2240",
+        "language": "JavaScript",
+        "description": "CUI整合forfoobar2000"
+    },
+    {
+        "header": "sunpinyin/sunpinyin",
+        "url": "https://github.com/sunpinyin/sunpinyin",
+        "star": "454",
+        "language": "C++",
+        "description": "AstatisticallanguagemodelbasedChineseinputmethod"
+    },
+    {
+        "header": "rime/weasel",
+        "url": "https://github.com/rime/weasel",
+        "star": "2352",
+        "language": "C++",
+        "description": "【小狼毫】RimeforWindows"
+    },
+    {
+        "header": "derceg/explorerplusplus",
+        "url": "https://github.com/derceg/explorerplusplus",
+        "star": "1543",
+        "language": "C++",
+        "description": "Explorer++isalightweightandfastfilemanagerforWindows"
+    },
+    {
+        "header": "kimlimjustin/xplorer",
+        "url": "https://github.com/kimlimjustin/xplorer",
+        "star": "2452",
+        "language": "TypeScript",
+        "description": "Xplorer,acustomizable,modernfilemanager"
+    },
+    {
+        "header": "mixxxdj/mixxx",
+        "url": "https://github.com/mixxxdj/mixxx",
+        "star": "2877",
+        "language": "C++",
+        "description": "MixxxisFreeDJsoftwarethatgivesyoueverythingyouneedtoperformlivemixes."
+    },
+    {
+        "header": "hyb1996/Auto.js",
+        "url": "https://github.com/hyb1996/Auto.js",
+        "star": "11788",
+        "language": "Java",
+        "description": "AUiAutomatoronandroid,doesnotneedrootaccess(安卓平台上的JavaScript自动化工具)"
+    },
+    {
+        "header": "xiandanin/magnetW",
+        "url": "https://github.com/xiandanin/magnetW",
+        "star": "12452",
+        "language": "JavaScript",
+        "description": "[已失效，不再维护]"
+    },
+    {
+        "header": "KevinWang15/ztype-trainer",
+        "url": "https://github.com/KevinWang15/ztype-trainer",
+        "star": "29",
+        "language": "JavaScript",
+        "description": "TrainerforthefamoustypinggameZType(http://zty.pe/),6effects"
+    },
+    {
+        "header": "marblexu/PythonPlantsVsZombies",
+        "url": "https://github.com/marblexu/PythonPlantsVsZombies",
+        "star": "2524",
+        "language": "Python",
+        "description": "asimplePlantsVsZombiesgame"
+    },
+    {
+        "header": "phoboslab/Impact",
+        "url": "https://github.com/phoboslab/Impact",
+        "star": "1776",
+        "language": "JavaScript",
+        "description": "HTML5GameEngine"
+    },
+    {
+        "header": "webzhd/react-code-game",
+        "url": "https://github.com/webzhd/react-code-game",
+        "star": "70",
+        "language": "TypeScript",
+        "description": "打字游戏打字练习javascriptjs学习"
+    },
+    {
+        "header": "WangXuan95/USTC-RVSoC",
+        "url": "https://github.com/WangXuan95/USTC-RVSoC",
+        "star": "176",
+        "language": "SystemVerilog",
+        "description": "FPGA-basedRISC-VCPU+SoC."
+    },
+    {
+        "header": "SI-RISCV/e200_opensource",
+        "url": "https://github.com/SI-RISCV/e200_opensource",
+        "star": "2081",
+        "language": "Verilog",
+        "description": "Deprecated,pleasegotonextgenerationUltra-LowPowerRISC-VCorehttps://github.com/riscv-mcu/e203_hbirdv2"
+    },
+    {
+        "header": "zccrs/Aircraft-War",
+        "url": "https://github.com/zccrs/Aircraft-War",
+        "star": "31",
+        "language": "C++",
+        "description": "基于qt编写的飞机大战小游戏。新增网络排行榜。支持windows、linux、symbian、meego、sailfish。。。"
+    },
+    {
+        "header": "BitOpenFPGA/OpenICE",
+        "url": "https://github.com/BitOpenFPGA/OpenICE",
+        "star": "22",
+        "language": "Shell",
+        "description": "OpenFPGAICE40UP5K"
+    },
+    {
+        "header": "tomlooman/EpicSurvivalGame",
+        "url": "https://github.com/tomlooman/EpicSurvivalGame",
+        "star": "2651",
+        "language": "C++",
+        "description": "Third-personSurvivalGameforUnrealEngine4(SampleProject)"
+    },
+    {
+        "header": "iniside/ActionRPGGame",
+        "url": "https://github.com/iniside/ActionRPGGame",
+        "star": "889",
+        "language": "C++",
+        "description": "UnrealEngine4ActionRPGtypegamestarterkit."
+    },
+    {
+        "header": "yunwei37/UNO-game-oop",
+        "url": "https://github.com/yunwei37/UNO-game-oop",
+        "star": "37",
+        "language": "C++",
+        "description": "基于QT开发的UNO卡牌游戏，支持两种游戏规则模式，2-8人局域网联机对战，简单的AI人机对战等"
+    },
+    {
+        "header": "microsoft/AirSim",
+        "url": "https://github.com/microsoft/AirSim",
+        "star": "13377",
+        "language": "C++",
+        "description": "OpensourcesimulatorforautonomousvehiclesbuiltonUnrealEngine/Unity,fromMicrosoftAI&Research"
+    },
+    {
+        "header": "mtrebi/AI_FPS",
+        "url": "https://github.com/mtrebi/AI_FPS",
+        "star": "133",
+        "language": "C++",
+        "description": "AIsystemtosimulatecombatbehaviorsinaFPSgameusingBehaviorTrees(UE4)"
+    },
+    {
+        "header": "carla-simulator/carla",
+        "url": "https://github.com/carla-simulator/carla",
+        "star": "8061",
+        "language": "C++",
+        "description": "Open-sourcesimulatorforautonomousdrivingresearch."
+    },
+    {
+        "header": "Jeija/esp8266-smartwatch",
+        "url": "https://github.com/Jeija/esp8266-smartwatch",
+        "star": "208",
+        "language": "C",
+        "description": "ESP8266DIYWiFiSmartwatchwithMPU-9250,RTC,OLED,FT232,..."
+    },
+    {
+        "header": "TohoOutsiders/web-marisa",
+        "url": "https://github.com/TohoOutsiders/web-marisa",
+        "star": "61",
+        "language": "Go",
+        "description": "🍄白丝魔理沙网页版"
+    },
+    {
+        "header": "WhiteHouse/fb_messenger_bot",
+        "url": "https://github.com/WhiteHouse/fb_messenger_bot",
+        "star": "565",
+        "language": "PHP",
+        "description": "ThisDrupalmoduleprovidesatooltobuildachatbottoworkonFacebook'sMessengerPlatform."
+    },
+    {
+        "header": "chatopera/chatbot-samples",
+        "url": "https://github.com/chatopera/chatbot-samples",
+        "star": "107",
+        "language": "JavaScript",
+        "description": "🤖聊天机器人，对话模板"
+    },
+    {
+        "header": "hubotio/hubot",
+        "url": "https://github.com/hubotio/hubot",
+        "star": "16212",
+        "language": "JavaScript",
+        "description": "Acustomizablelifeembettermentrobot."
+    },
+    {
+        "header": "lxqt/lxqt",
+        "url": "https://github.com/lxqt/lxqt",
+        "star": "1347",
+        "language": "Shell",
+        "description": "CheckoutallLXQtcomponentsatoncebyusinggitsubmodule."
+    },
+    {
+        "header": "Greedysky/TTKOCR",
+        "url": "https://github.com/Greedysky/TTKOCR",
+        "star": "87",
+        "language": "C++",
+        "description": "OCR识别图片以及PDF中的文字，basedonQtforwindowsandlinux."
+    },
+    {
+        "header": "Greedysky/TTKWidgetTools",
+        "url": "https://github.com/Greedysky/TTKWidgetTools",
+        "star": "380",
+        "language": "C",
+        "description": "QWidget自定义控件集合持续更新中......"
+    },
+    {
+        "header": "DIYgod/DPlayer",
+        "url": "https://github.com/DIYgod/DPlayer",
+        "star": "13013",
+        "language": "JavaScript",
+        "description": ":lollipop:Wow,suchalovelyHTML5danmakuvideoplayer"
+    },
+    {
+        "header": "fralx/LimeReport",
+        "url": "https://github.com/fralx/LimeReport",
+        "star": "301",
+        "language": "C++",
+        "description": "ReportgeneratorforQtFramework"
+    },
+    {
+        "header": "qtinuum/QtnProperty",
+        "url": "https://github.com/qtinuum/QtnProperty",
+        "star": "362",
+        "language": "C++",
+        "description": "ExtendedpropertiesforQt5"
+    },
+    {
+        "header": "paceholder/nodeeditor",
+        "url": "https://github.com/paceholder/nodeeditor",
+        "star": "1972",
+        "language": "C++",
+        "description": "QtNodeEditor.Dataflowprogrammingframework"
+    },
+    {
+        "header": "helloworld-Co/html2md",
+        "url": "https://github.com/helloworld-Co/html2md",
+        "star": "328",
+        "language": "JavaScript",
+        "description": "helloworld开发者社区开源的一个轻量级，强大的html一键转md工具，支持多平台文章一键转换，并保存下载到本地。"
+    },
+    {
+        "header": "rodlie/qtfm",
+        "url": "https://github.com/rodlie/qtfm",
+        "star": "101",
+        "language": "C++",
+        "description": "QtFileManager"
+    },
+    {
+        "header": "pagenote/pagenote",
+        "url": "https://github.com/pagenote/pagenote",
+        "star": "119",
+        "language": "TypeScript",
+        "description": "超简单的网页关键词高亮、标注SDK、能把笔记留在网页里。"
+    },
+    {
+        "header": "Archie3d/qpdf",
+        "url": "https://github.com/Archie3d/qpdf",
+        "star": "139",
+        "language": "JavaScript",
+        "description": "PDFviewerwidgetforQt"
+    },
+    {
+        "header": "CesiumGS/cesium",
+        "url": "https://github.com/CesiumGS/cesium",
+        "star": "8991",
+        "language": "JavaScript",
+        "description": "Anopen-sourceJavaScriptlibraryforworld-class3Dglobesandmaps:earth_americas:"
+    },
+    {
+        "header": "sourcepole/qgis",
+        "url": "https://github.com/sourcepole/qgis",
+        "star": "11",
+        "language": "C",
+        "description": "Sourcepole'ssandboxforQGISextensions"
+    },
+    {
+        "header": "openscenegraph/OpenSceneGraph-Data",
+        "url": "https://github.com/openscenegraph/OpenSceneGraph-Data",
+        "star": "77",
+        "language": "GLSL",
+        "description": "ExamplemodelsandshadercollectionfortheOpenSceneGraphproject"
+    },
+    {
+        "header": "gwaldron/osgearth",
+        "url": "https://github.com/gwaldron/osgearth",
+        "star": "1119",
+        "language": "C++",
+        "description": "A3DMappingEngine&SDKforOpenSceneGraph."
+    },
+    {
+        "header": "newdraw/AppTime",
+        "url": "https://github.com/newdraw/AppTime",
+        "star": "77",
+        "language": "CSS",
+        "description": "桌面时间管理DesktopTimeManagement"
+    },
+    {
+        "header": "newsdev/rocketdocket",
+        "url": "https://github.com/newsdev/rocketdocket",
+        "star": "26",
+        "language": "Shell",
+        "description": "Thefastest,cleanest,mostreproduciblewaystoOCRadocument."
+    },
+    {
+        "header": "openscenegraph/OpenSceneGraph",
+        "url": "https://github.com/openscenegraph/OpenSceneGraph",
+        "star": "2528",
+        "language": "C++",
+        "description": "OpenSceneGraphgitrepository"
+    },
+    {
+        "header": "qbittorrent/qBittorrent",
+        "url": "https://github.com/qbittorrent/qBittorrent",
+        "star": "16622",
+        "language": "C++",
+        "description": "qBittorrentBitTorrentclient"
+    },
+    {
+        "header": "rechie1985/wizclipper",
+        "url": "https://github.com/rechie1985/wizclipper",
+        "star": "1",
+        "language": "JavaScript",
+        "description": "wizchromeclipper"
+    },
+    {
+        "header": "alisen39/TrWebOCR",
+        "url": "https://github.com/alisen39/TrWebOCR",
+        "star": "1486",
+        "language": "Python",
+        "description": "开源易用的中文离线OCR，识别率媲美大厂，并且提供了易用的web页面及web的接口，方便人类日常工作使用或者其他程序来调用~"
+    },
+    {
+        "header": "AnyListen/tianruoocr",
+        "url": "https://github.com/AnyListen/tianruoocr",
+        "star": "1452",
+        "language": "C#",
+        "description": "已停止维护，欢迎使用新版跨平台OCR工具（树洞OCR文字识别）"
+    },
+    {
+        "header": "nurupo/ProjectTox-Qt-GUI",
+        "url": "https://github.com/nurupo/ProjectTox-Qt-GUI",
+        "star": "330",
+        "language": "C++",
+        "description": "Across-platformfrontendforProjectToxCorelibrary,writteninC++11withuseofQt5"
+    },
+    {
+        "header": "Greedysky/TTKDownloader",
+        "url": "https://github.com/Greedysky/TTKDownloader",
+        "star": "157",
+        "language": "C++",
+        "description": "TTKDownloaderthatimitationxunleidownloader,basedonQtforwindowsandlinux."
+    },
+    {
+        "header": "BeiChenYx/FramelessWindow",
+        "url": "https://github.com/BeiChenYx/FramelessWindow",
+        "star": "11",
+        "language": "C++",
+        "description": "QtFramelessWidget;基于Qt框架的自定义窗口框架;"
+    },
+    {
+        "header": "irungentoo/toxcore",
+        "url": "https://github.com/irungentoo/toxcore",
+        "star": "8674",
+        "language": "C",
+        "description": "Thefutureofonlinecommunications."
+    },
+    {
+        "header": "xournalpp/xournalpp",
+        "url": "https://github.com/xournalpp/xournalpp",
+        "star": "6884",
+        "language": "C++",
+        "description": "Xournal++isahandwritingnotetakingsoftwarewithPDFannotationsupport.WritteninC++withGTK3,supportingLinux(e.g.Ubuntu,Debian,Arch,SUSE),macOSandWindows10.SupportspeninputfromdevicessuchasWacomTablets."
+    },
+    {
+        "header": "mozilla/pdf.js",
+        "url": "https://github.com/mozilla/pdf.js",
+        "star": "39446",
+        "language": "JavaScript",
+        "description": "PDFReaderinJavaScript"
+    },
+    {
+        "header": "sumatrapdfreader/sumatrapdf",
+        "url": "https://github.com/sumatrapdfreader/sumatrapdf",
+        "star": "8623",
+        "language": "C",
+        "description": "SumatraPDFreader"
+    },
+    {
+        "header": "xiaopengand/daxigua",
+        "url": "https://github.com/xiaopengand/daxigua",
+        "star": "220",
+        "language": "JavaScript",
+        "description": "大西瓜，合成大西瓜源码，破解版源码，支持模式选择，分数选择"
+    },
+    {
+        "header": "liyupi/daxigua",
+        "url": "https://github.com/liyupi/daxigua",
+        "star": "1220",
+        "language": "JavaScript",
+        "description": "最简单的魔改发布『合成大西瓜』，配套改图工具，不用改代码，修改配置即可！"
+    },
+    {
+        "header": "Samnan/MyWebSQL",
+        "url": "https://github.com/Samnan/MyWebSQL",
+        "star": "84",
+        "language": "PHP",
+        "description": "Nextgenerationtoolfordatabasewebadministration"
+    },
+    {
+        "header": "mltframework/shotcut",
+        "url": "https://github.com/mltframework/shotcut",
+        "star": "6813",
+        "language": "C++",
+        "description": "cross-platform(Qt),open-source(GPLv3)videoeditor"
+    },
+    {
+        "header": "wang-bin/QtAV",
+        "url": "https://github.com/wang-bin/QtAV",
+        "star": "3238",
+        "language": "C++",
+        "description": "Across-platformmultimediaframeworkbasedonQtandFFmpeg(https://github.com/wang-bin/avbuild).Highperformance.User&developerfriendly.SupportsAndroid,iOS,Windowsstoreanddesktops.基于Qt和FFmpeg的跨平台高性能音视频播放框架"
+    },
+    {
+        "header": "blender/blender",
+        "url": "https://github.com/blender/blender",
+        "star": "6186",
+        "language": "C",
+        "description": "OfficialmirrorofBlender"
+    },
+    {
+        "header": "liyang5945/sync-player",
+        "url": "https://github.com/liyang5945/sync-player",
+        "star": "247",
+        "language": "JavaScript",
+        "description": "avideoplayercouldsynchronizingplaywithothers可以异地同步播放视频的播放器。"
+    },
+    {
+        "header": "Syncplay/syncplay",
+        "url": "https://github.com/Syncplay/syncplay",
+        "star": "1494",
+        "language": "Python",
+        "description": "Client/servertosynchronizemediaplaybackonmpv/VLC/MPC-HC/MPC-BEonmanycomputers"
+    },
+    {
+        "header": "pandao/editor.md",
+        "url": "https://github.com/pandao/editor.md",
+        "star": "12331",
+        "language": "JavaScript",
+        "description": "Theopensourceembeddableonlinemarkdowneditor(component)."
+    },
+    {
+        "header": "QtDocumentCN/QtDocumentCN",
+        "url": "https://github.com/QtDocumentCN/QtDocumentCN",
+        "star": "655",
+        "language": "",
+        "description": "Qt中文文档翻译"
+    },
+    {
+        "header": "lavoiesl/osx-cpu-temp",
+        "url": "https://github.com/lavoiesl/osx-cpu-temp",
+        "star": "872",
+        "language": "C",
+        "description": "OutputscurrentCPUtemperatureforOSX"
+    },
+    {
+        "header": "tibirna/qgit",
+        "url": "https://github.com/tibirna/qgit",
+        "star": "126",
+        "language": "C++",
+        "description": "OfficialgitrepositoryforQGit."
+    },
+    {
+        "header": "qcadoo/mes",
+        "url": "https://github.com/qcadoo/mes",
+        "star": "536",
+        "language": "Java",
+        "description": "qcadooMES-friendlywebmanufacturingsoftware"
+    },
+    {
+        "header": "giuspen/cherrytree",
+        "url": "https://github.com/giuspen/cherrytree",
+        "star": "2495",
+        "language": "C++",
+        "description": "cherrytree"
+    },
+    {
+        "header": "scrapy/scrapy",
+        "url": "https://github.com/scrapy/scrapy",
+        "star": "44147",
+        "language": "Python",
+        "description": "Scrapy,afasthigh-levelwebcrawling&scrapingframeworkforPython."
+    },
+    {
+        "header": "aidin36/tocc",
+        "url": "https://github.com/aidin36/tocc",
+        "star": "104",
+        "language": "C++",
+        "description": "Atagbasedfilemanagementsystem."
+    },
+    {
+        "header": "clementine-player/Clementine",
+        "url": "https://github.com/clementine-player/Clementine",
+        "star": "3249",
+        "language": "C++",
+        "description": ":tangerine:ClementineMusicPlayer"
+    },
+    {
+        "header": "breezedeus/cnocr",
+        "url": "https://github.com/breezedeus/cnocr",
+        "star": "1690",
+        "language": "Python",
+        "description": "CnOCR：基于PyTorch/MXNet的中文/英文OCRPython包"
+    },
+    {
+        "header": "chineseocr/chineseocr",
+        "url": "https://github.com/chineseocr/chineseocr",
+        "star": "4918",
+        "language": "Python",
+        "description": "yolo3+ocr"
+    },
+    {
+        "header": "soui-demo/SouiEditor",
+        "url": "https://github.com/soui-demo/SouiEditor",
+        "star": "33",
+        "language": "C++",
+        "description": ""
+    },
+    {
+        "header": "minipad2/minipad2",
+        "url": "https://github.com/minipad2/minipad2",
+        "star": "50",
+        "language": "C",
+        "description": "minipad2"
+    },
+    {
+        "header": "bumptop/BumpTop",
+        "url": "https://github.com/bumptop/BumpTop",
+        "star": "450",
+        "language": "C++",
+        "description": ""
+    },
+    {
+        "header": "coodesker/coodesker-desktop",
+        "url": "https://github.com/coodesker/coodesker-desktop",
+        "star": "401",
+        "language": "",
+        "description": "Desktoporgainzetool"
+    },
+    {
+        "header": "WordPress/wordpress-develop",
+        "url": "https://github.com/WordPress/wordpress-develop",
+        "star": "1562",
+        "language": "PHP",
+        "description": "WordPressDevelop,Git-ified.Syncedfromgit://develop.git.wordpress.org/,includingbranchesandtags!ThisrepositoryisjustamirroroftheWordPresssubversionrepository.Pleaseincludealinktoapre-existingticketonhttps://core.trac.wordpress.org/witheverypullrequest."
+    },
+    {
+        "header": "drupal/drupal",
+        "url": "https://github.com/drupal/drupal",
+        "star": "3737",
+        "language": "PHP",
+        "description": "Verbatimmirrorofthegit.drupal.orgrepositoryforDrupalcore.Pleaseseethehttps://github.com/drupal/drupal#contributing.PRsarenotacceptedonGitHub."
+    },
+    {
+        "header": "dedecms/DedeCMS",
+        "url": "https://github.com/dedecms/DedeCMS",
+        "star": "103",
+        "language": "PHP",
+        "description": "DedeCMS是上海卓卓网络科技有限公司开发的PHP内容管理系统。"
+    },
+    {
+        "header": "xujeff/tianti",
+        "url": "https://github.com/xujeff/tianti",
+        "star": "1070",
+        "language": "Java",
+        "description": "java轻量级的CMS解决方案-天梯。天梯是一个用java相关技术搭建的后台CMS解决方案，用户可以结合自身业务进行相应扩展，同时提供了针对dao、service等的代码生成工具。技术选型：SpringDataJPA、Hibernate、Shiro、SpringMVC、Layer、Mysql等。"
+    },
+    {
+        "header": "goodrain-apps/chanzhieps",
+        "url": "https://github.com/goodrain-apps/chanzhieps",
+        "star": "12",
+        "language": "PHP",
+        "description": "蝉知门户系统（changezhiEPS）是一款开源免费的企业门户系统，专为企业营销设计"
+    },
+    {
+        "header": "bestony/EasyWordPressBook",
+        "url": "https://github.com/bestony/EasyWordPressBook",
+        "star": "724",
+        "language": "",
+        "description": "人人都能学会的WordPress实战课"
+    },
+    {
+        "header": "thunil/TecoGAN",
+        "url": "https://github.com/thunil/TecoGAN",
+        "star": "4732",
+        "language": "Python",
+        "description": "ThisrepocontainssourcecodeandmaterialsfortheTEmporallyCOherentGANSIGGRAPHproject."
+    },
+    {
+        "header": "LMMS/lmms",
+        "url": "https://github.com/LMMS/lmms",
+        "star": "5981",
+        "language": "C++",
+        "description": "Cross-platformmusicproductionsoftware"
+    },
+    {
+        "header": "Ardour/ardour",
+        "url": "https://github.com/Ardour/ardour",
+        "star": "2590",
+        "language": "C++",
+        "description": "MirrorofArdourSourceCode"
+    },
+    {
+        "header": "jadepeng/bing-wallpaper",
+        "url": "https://github.com/jadepeng/bing-wallpaper",
+        "star": "179",
+        "language": "C#",
+        "description": "Bing每日壁纸，自动获取Bing的精美图片设置为壁纸，并且支持随机切换历史壁纸，查看壁纸故事"
+    },
+    {
+        "header": "enricolucia/pong",
+        "url": "https://github.com/enricolucia/pong",
+        "star": "32",
+        "language": "JavaScript",
+        "description": "Apurejavascriptponggameclonebasedonsocket.ioandcanvas."
+    },
+    {
+        "header": "electronicarts/CnC_Remastered_Collection",
+        "url": "https://github.com/electronicarts/CnC_Remastered_Collection",
+        "star": "16228",
+        "language": "C++",
+        "description": ""
+    },
+    {
+        "header": "XMuli/ChineseChess",
+        "url": "https://github.com/XMuli/ChineseChess",
+        "star": "452",
+        "language": "C++",
+        "description": "Cross-platformandonlinebattleplatformgamebasedonQt:ChineseChess.Alsoknownas:『Xiangqi』『中国象棋』"
+    },
+    {
+        "header": "RD17/ambar",
+        "url": "https://github.com/RD17/ambar",
+        "star": "1877",
+        "language": "JavaScript",
+        "description": ":mag:Ambar:DocumentSearchEngine"
+    },
+    {
+        "header": "kazzmir/paintown",
+        "url": "https://github.com/kazzmir/paintown",
+        "star": "91",
+        "language": "C++",
+        "description": "Paintownisa2-dfightinggame"
+    },
+    {
+        "header": "Oniryck/POSTAL-1-Open-Source",
+        "url": "https://github.com/Oniryck/POSTAL-1-Open-Source",
+        "star": "22",
+        "language": "C++",
+        "description": ""
+    },
+    {
+        "header": "mozilla/BrowserQuest",
+        "url": "https://github.com/mozilla/BrowserQuest",
+        "star": "8914",
+        "language": "JavaScript",
+        "description": "AHTML5/JavaScriptmultiplayergameexperiment"
+    },
+    {
+        "header": "OpenRA/OpenRA",
+        "url": "https://github.com/OpenRA/OpenRA",
+        "star": "11629",
+        "language": "C#",
+        "description": "OpenSourcereal-timestrategygameengineforearlyWestwoodgamessuchasCommand&Conquer:RedAlertwritteninC#usingSDLandOpenGL.RunsonWindows,Linux,*BSDandMacOSX."
+    },
+    {
+        "header": "WizTeam/WizQTClient",
+        "url": "https://github.com/WizTeam/WizQTClient",
+        "star": "2491",
+        "language": "C",
+        "description": "为知笔记跨平台客户端"
+    },
+    {
+        "header": "canpool/qtcanpool",
+        "url": "https://github.com/canpool/qtcanpool",
+        "star": "340",
+        "language": "C++",
+        "description": "Afancyqtclasslibrary"
+    },
+    {
+        "header": "novoid/tagstore",
+        "url": "https://github.com/novoid/tagstore",
+        "star": "20",
+        "language": "Python",
+        "description": "aresearchsoftware;afunwayofstoringfiles&foldersonyourlocaldiskdrive;tagging"
+    },
+    {
+        "header": "tagspaces/tagspaces",
+        "url": "https://github.com/tagspaces/tagspaces",
+        "star": "2660",
+        "language": "TypeScript",
+        "description": "TagSpacesisanoffline,opensource,documentmanagerwithtaggingsupport"
+    },
+    {
+        "header": "torproject/tor",
+        "url": "https://github.com/torproject/tor",
+        "star": "3229",
+        "language": "C",
+        "description": "unofficialgitrepo--reportbugs/issues/pullrequestsonhttps://gitlab.torproject.org/--"
+    },
+    {
+        "header": "d2l-ai/d2l-en",
+        "url": "https://github.com/d2l-ai/d2l-en",
+        "star": "14369",
+        "language": "Python",
+        "description": "Interactivedeeplearningbookwithmulti-frameworkcode,math,anddiscussions.Adoptedat300universitiesfrom55countriesincludingStanford,MIT,Harvard,andCambridge."
+    },
+    {
+        "header": "inspirehep/magpie",
+        "url": "https://github.com/inspirehep/magpie",
+        "star": "659",
+        "language": "Python",
+        "description": "Deepneuralnetworkframeworkformulti-labeltextclassification"
+    },
+    {
+        "header": "iqiyi/FASPell",
+        "url": "https://github.com/iqiyi/FASPell",
+        "star": "1058",
+        "language": "Python",
+        "description": "2019-SOTA简繁中文拼写检查工具：FASPellChineseSpellChecker(ChineseSpellCheck/中文拼写检错/中文拼写纠错/中文拼写检查)"
+    },
+    {
+        "header": "metabrainz/listenbrainz-server",
+        "url": "https://github.com/metabrainz/listenbrainz-server",
+        "star": "499",
+        "language": "Python",
+        "description": "ServerfortheListenBrainzproject,includingthefront-end(javascript/react)codethatitservesandallofthedataprocessingcomponentsthatLBuses."
+    },
+    {
+        "header": "facebookresearch/DrQA",
+        "url": "https://github.com/facebookresearch/DrQA",
+        "star": "4253",
+        "language": "Python",
+        "description": "ReadingWikipediatoAnswerOpen-DomainQuestions"
+    },
+    {
+        "header": "KangLin/ChineseChessControl",
+        "url": "https://github.com/KangLin/ChineseChessControl",
+        "star": "15",
+        "language": "C++",
+        "description": ":cn:中国象棋控件,包括中国象棋MFC扩展库，中国象棋activex控件，中国象棋Qt插件，人工智能引擎等"
+    },
+    {
+        "header": "dragen1860/TensorFlow-2.x-Tutorials",
+        "url": "https://github.com/dragen1860/TensorFlow-2.x-Tutorials",
+        "star": "6233",
+        "language": "Jupyter Notebook",
+        "description": "TensorFlow2.xversion'sTutorialsandExamples,includingCNN,RNN,GAN,Auto-Encoders,FasterRCNN,GPT,BERTexamples,etc.TF2.0版入门实例代码，实战教程。"
+    },
+    {
+        "header": "tensorflow/playground",
+        "url": "https://github.com/tensorflow/playground",
+        "star": "10477",
+        "language": "TypeScript",
+        "description": "Playwithneuralnetworks!"
+    },
+    {
+        "header": "tensorflow/tensorflow",
+        "url": "https://github.com/tensorflow/tensorflow",
+        "star": "166807",
+        "language": "C++",
+        "description": "AnOpenSourceMachineLearningFrameworkforEveryone"
+    },
+    {
+        "header": "isocpp/CppCoreGuidelines",
+        "url": "https://github.com/isocpp/CppCoreGuidelines",
+        "star": "34933",
+        "language": "Python",
+        "description": "TheC++CoreGuidelinesareasetoftried-and-trueguidelines,rules,andbestpracticesaboutcodinginC++"
+    },
+    {
+        "header": "Conchylicultor/DeepQA",
+        "url": "https://github.com/Conchylicultor/DeepQA",
+        "star": "2857",
+        "language": "Python",
+        "description": "Mytensorflowimplementationof\"Aneuralconversationalmodel\",aDeeplearningbasedchatbot"
+    },
+    {
+        "header": "cloudframeworks-tensorflow/user-guide-tensorflow",
+        "url": "https://github.com/cloudframeworks-tensorflow/user-guide-tensorflow",
+        "star": "45",
+        "language": "",
+        "description": "[Cloudframeworks]TensorFlowChatbot-userguide/[云框架]TensorFlowChatbot-用户指南"
+    },
+    {
+        "header": "gunthercox/ChatterBot",
+        "url": "https://github.com/gunthercox/ChatterBot",
+        "star": "12446",
+        "language": "Python",
+        "description": "ChatterBotisamachinelearning,conversationaldialogengineforcreatingchatbots"
+    },
+    {
+        "header": "deepmipt/DeepPavlov",
+        "url": "https://github.com/deepmipt/DeepPavlov",
+        "star": "5815",
+        "language": "Python",
+        "description": "Anopensourcelibraryfordeeplearningend-to-enddialogsystemsandchatbots."
+    },
+    {
+        "header": "wzpan/wukong-robot",
+        "url": "https://github.com/wzpan/wukong-robot",
+        "star": "3480",
+        "language": "Python",
+        "description": "🤖wukong-robot是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，还可能是首个支持脑机交互的开源智能音箱项目。"
+    },
+    {
+        "header": "nextcloud/server",
+        "url": "https://github.com/nextcloud/server",
+        "star": "19652",
+        "language": "PHP",
+        "description": "☁️Nextcloudserver,asafehomeforallyourdata"
+    },
+    {
+        "header": "KDE/kolourpaint",
+        "url": "https://github.com/KDE/kolourpaint",
+        "star": "56",
+        "language": "C++",
+        "description": "Easy-to-usepaintprogram"
+    },
+    {
+        "header": "KDE/calligra",
+        "url": "https://github.com/KDE/calligra",
+        "star": "127",
+        "language": "C++",
+        "description": "OfficeandgraphicartsuitebyKDE"
+    },
+    {
+        "header": "znlbwo/gitstars",
+        "url": "https://github.com/znlbwo/gitstars",
+        "star": "268",
+        "language": "JavaScript",
+        "description": "GithubStarsRepositoriesManager"
+    },
+    {
+        "header": "mutse/qt5-book-code",
+        "url": "https://github.com/mutse/qt5-book-code",
+        "star": "500",
+        "language": "C++",
+        "description": "PortingsourcecodeofthebookC++GUIProgrammingwithQt4fromQt4toQt5"
+    },
+    {
+        "header": "codilime/veles",
+        "url": "https://github.com/codilime/veles",
+        "star": "854",
+        "language": "C++",
+        "description": "Binarydataanalysisandvisualizationtool"
+    },
+    {
+        "header": "azadkuh/qhttp",
+        "url": "https://github.com/azadkuh/qhttp",
+        "star": "439",
+        "language": "C++",
+        "description": "alight-weightandasynchronousHTTPlibrary(bothserver&client)inQt5andc++14"
+    },
+    {
+        "header": "szieke/ScriptCommunicator_serial-terminal",
+        "url": "https://github.com/szieke/ScriptCommunicator_serial-terminal",
+        "star": "589",
+        "language": "C++",
+        "description": "Scriptablecross-platformdataterminalwhichsupports:serialport,UDP,TCP,SPI,I2CandCAN."
+    },
+    {
+        "header": "ossia/score",
+        "url": "https://github.com/ossia/score",
+        "star": "1090",
+        "language": "C++",
+        "description": "ossiascore,aninteractivesequencerfortheintermediaarts"
+    },
+    {
+        "header": "mortbopet/Ripes",
+        "url": "https://github.com/mortbopet/Ripes",
+        "star": "991",
+        "language": "C++",
+        "description": "AgraphicalprocessorsimulatorandassemblyeditorfortheRISC-VISA"
+    },
+    {
+        "header": "nuttyartist/notes",
+        "url": "https://github.com/nuttyartist/notes",
+        "star": "729",
+        "language": "C++",
+        "description": "Note-takingapplication,writedownyourthoughts."
+    },
+    {
+        "header": "srevinsaju/guiscrcpy",
+        "url": "https://github.com/srevinsaju/guiscrcpy",
+        "star": "1730",
+        "language": "Python",
+        "description": "AfullfledgedGUIintegrationfortheawardwinningopen-sourceandroidscreenmirroringsystem--scrcpylocatedonhttps://github.com/genymobile/scrcpy/by@rom1v"
+    },
+    {
+        "header": "manisandro/gImageReader",
+        "url": "https://github.com/manisandro/gImageReader",
+        "star": "1094",
+        "language": "C++",
+        "description": "AGtk/Qtfront-endtotesseract-ocr."
+    },
+    {
+        "header": "mitchcurtis/slate",
+        "url": "https://github.com/mitchcurtis/slate",
+        "star": "896",
+        "language": "C++",
+        "description": "PixelArtEditor"
+    },
+    {
+        "header": "Greedysky/TTKMusicplayer",
+        "url": "https://github.com/Greedysky/TTKMusicplayer",
+        "star": "1060",
+        "language": "C++",
+        "description": "TTKMusicPlayerthatimitationKugoumusic,themusicplayerusesofqmmpcorelibrarybasedonQtforwindowsandlinux.(支持网易云音乐、QQ音乐、酷我音乐、酷狗音乐)"
+    },
+    {
+        "header": "shundhammer/qdirstat",
+        "url": "https://github.com/shundhammer/qdirstat",
+        "star": "1155",
+        "language": "C++",
+        "description": "QDirStat-Qt-baseddirectorystatistics(KDirStatwithoutanyKDE-fromtheoriginalKDirStatauthor)"
+    },
+    {
+        "header": "LibrePCB/LibrePCB",
+        "url": "https://github.com/LibrePCB/LibrePCB",
+        "star": "1466",
+        "language": "C++",
+        "description": "Apowerful,innovativeandintuitiveEDAtoolforeveryone!"
+    },
+    {
+        "header": "soramimi/Guitar",
+        "url": "https://github.com/soramimi/Guitar",
+        "star": "1349",
+        "language": "C",
+        "description": "GitGUIClient"
+    },
+    {
+        "header": "toggl-open-source/toggldesktop",
+        "url": "https://github.com/toggl-open-source/toggldesktop",
+        "star": "1735",
+        "language": "C++",
+        "description": "TogglDesktopappforWindows,MacandLinux"
+    },
+    {
+        "header": "qgis/QGIS",
+        "url": "https://github.com/qgis/QGIS",
+        "star": "5999",
+        "language": "C++",
+        "description": "QGISisafree,opensource,crossplatform(lin/win/mac)geographicalinformationsystem(GIS)"
+    },
+    {
+        "header": "flameshot-org/flameshot",
+        "url": "https://github.com/flameshot-org/flameshot",
+        "star": "18391",
+        "language": "C++",
+        "description": "Powerfulyetsimpletousescreenshotsoftware:desktop_computer::camera_flash:"
+    },
+    {
+        "header": "BasioMeusPuga/Lector",
+        "url": "https://github.com/BasioMeusPuga/Lector",
+        "star": "1385",
+        "language": "Python",
+        "description": "Qtbasedebookreader"
+    },
+    {
+        "header": "QTodoTxt/QTodoTxt",
+        "url": "https://github.com/QTodoTxt/QTodoTxt",
+        "star": "374",
+        "language": "Python",
+        "description": "CrossPlatformtodo.txtGUI"
+    },
+    {
+        "header": "barry-ran/QtScrcpy",
+        "url": "https://github.com/barry-ran/QtScrcpy",
+        "star": "7283",
+        "language": "Java",
+        "description": "Androidreal-timedisplaycontrolsoftware"
+    },
+    {
+        "header": "dvorka/mindforger-repository",
+        "url": "https://github.com/dvorka/mindforger-repository",
+        "star": "254",
+        "language": "",
+        "description": "MindForgerdocumentationrepository."
+    },
+    {
+        "header": "Skiars/SerialTool",
+        "url": "https://github.com/Skiars/SerialTool",
+        "star": "523",
+        "language": "C++",
+        "description": "AcrossplatformSerial-Port/TCP/UDPdebuggingtool."
+    },
+    {
+        "header": "dvorka/mindforger",
+        "url": "https://github.com/dvorka/mindforger",
+        "star": "1836",
+        "language": "C++",
+        "description": "ThinkingnotebookandMarkdowneditor."
+    },
+    {
+        "header": "czyt1988/SARibbon",
+        "url": "https://github.com/czyt1988/SARibbon",
+        "star": "460",
+        "language": "C++",
+        "description": "RibbonControlforQt"
+    },
+    {
+        "header": "czyt1988/sa",
+        "url": "https://github.com/czyt1988/sa",
+        "star": "343",
+        "language": "C++",
+        "description": "信号分析及数据可视化软件"
+    },
+    {
+        "header": "nightn/CloudViewer",
+        "url": "https://github.com/nightn/CloudViewer",
+        "star": "294",
+        "language": "C++",
+        "description": "Across-platformpointcloudvisualizationsoftwarepoweredbyPCLandQt."
+    },
+    {
+        "header": "ArsMasiuk/qvge",
+        "url": "https://github.com/ArsMasiuk/qvge",
+        "star": "399",
+        "language": "C++",
+        "description": "QtVisualGraphEditor"
+    },
+    {
+        "header": "AlloyTeam/Rythem",
+        "url": "https://github.com/AlloyTeam/Rythem",
+        "star": "862",
+        "language": "C++",
+        "description": "afiddler-likeprojectusingQt"
+    },
+    {
+        "header": "unbug/codelf",
+        "url": "https://github.com/unbug/codelf",
+        "star": "13021",
+        "language": "JavaScript",
+        "description": "Asearchtoolhelpsdevtosolvethenamingthingsproblem."
+    },
+    {
+        "header": "TheAssassin/AppImageLauncher",
+        "url": "https://github.com/TheAssassin/AppImageLauncher",
+        "star": "2896",
+        "language": "C++",
+        "description": "HelperapplicationforLinuxdistributionsservingasakindof\"entrypoint\"forrunningandintegratingAppImages"
+    },
+    {
+        "header": "bupticybee/icyChessZero",
+        "url": "https://github.com/bupticybee/icyChessZero",
+        "star": "285",
+        "language": "Jupyter Notebook",
+        "description": "中国象棋alphazero程序"
+    },
+    {
+        "header": "junxiaosong/AlphaZero_Gomoku",
+        "url": "https://github.com/junxiaosong/AlphaZero_Gomoku",
+        "star": "2733",
+        "language": "Python",
+        "description": "AnimplementationoftheAlphaZeroalgorithmforGomoku(alsocalledGobangorFiveinaRow)"
+    },
+    {
+        "header": "xiongfang/Chinese-Chess",
+        "url": "https://github.com/xiongfang/Chinese-Chess",
+        "star": "91",
+        "language": "C#",
+        "description": "利用神经网络算法和遗传算法作为AI的中国象棋程序"
+    },
+    {
+        "header": "hedgewars/hw",
+        "url": "https://github.com/hedgewars/hw",
+        "star": "422",
+        "language": "Lua",
+        "description": "OfficialHedgewarsmirrorforGitHub!"
+    },
+    {
+        "header": "visit-dav/visit",
+        "url": "https://github.com/visit-dav/visit",
+        "star": "247",
+        "language": "C",
+        "description": "VisIt-VisualizationandDataAnalysisforMesh-basedScientificData"
+    },
+    {
+        "header": "KDE/krita",
+        "url": "https://github.com/KDE/krita",
+        "star": "4092",
+        "language": "C++",
+        "description": "Kritaisafreeandopensourcecross-platformapplicationthatoffersanend-to-endsolutionforcreatingdigitalartfilesfromscratchbuiltontheKDEandQtframeworks."
+    },
+    {
+        "header": "LegendRhine/WDTP",
+        "url": "https://github.com/LegendRhine/WDTP",
+        "star": "109",
+        "language": "C++",
+        "description": "AdesktopGUIstaticsitegenerator,succinctMarkdowneditor/parserandnotebookmanagetoolwhichrunsonmacOSandWindows"
+    },
+    {
+        "header": "msl12/react-typing-game",
+        "url": "https://github.com/msl12/react-typing-game",
+        "star": "2",
+        "language": "JavaScript",
+        "description": "atypinggameusingreact"
+    },
+    {
+        "header": "aeagean/QtKeyboard",
+        "url": "https://github.com/aeagean/QtKeyboard",
+        "star": "82",
+        "language": "C++",
+        "description": "该键盘主要功能有大小写切换，中英文切换，数字输入，符号输入等基本功能，未来还会支持换肤，手写功能。"
+    },
+    {
+        "header": "sashoalm/QFtpServer",
+        "url": "https://github.com/sashoalm/QFtpServer",
+        "star": "70",
+        "language": "C++",
+        "description": "QFtpServer-anFTPserverwritteninQt"
+    },
+    {
+        "header": "TheNeuronProject/ef.qt",
+        "url": "https://github.com/TheNeuronProject/ef.qt",
+        "star": "196",
+        "language": "JavaScript",
+        "description": "MakeQtgreatagain!"
+    },
+    {
+        "header": "seppd/qputty-qt5",
+        "url": "https://github.com/seppd/qputty-qt5",
+        "star": "23",
+        "language": "C++",
+        "description": "AQT5portforputty,thefreetelnet/sshclient."
+    },
+    {
+        "header": "NJU-TJL/Qt5-MusicPlayer",
+        "url": "https://github.com/NJU-TJL/Qt5-MusicPlayer",
+        "star": "161",
+        "language": "C++",
+        "description": "基于Qt5开发的一个小巧精美的本地音乐播放器。代码注释详细，适合作为一个用于入门的Qt5实战项目。"
+    },
+    {
+        "header": "draperjames/qtpandas",
+        "url": "https://github.com/draperjames/qtpandas",
+        "star": "119",
+        "language": "Python",
+        "description": "QtMeetsPandas"
+    },
+    {
+        "header": "meta-qt5/meta-qt5",
+        "url": "https://github.com/meta-qt5/meta-qt5",
+        "star": "220",
+        "language": "BitBake",
+        "description": "QT5layerforopenembedded"
+    },
+    {
+        "header": "qtumproject/qtum",
+        "url": "https://github.com/qtumproject/qtum",
+        "star": "1152",
+        "language": "C++",
+        "description": "QtumCoreWallet"
+    },
+    {
+        "header": "hermixy/qtun",
+        "url": "https://github.com/hermixy/qtun",
+        "star": "17",
+        "language": "C",
+        "description": "轻量级开源VPN软件"
+    },
+    {
+        "header": "heroyin/qmlvncviewer",
+        "url": "https://github.com/heroyin/qmlvncviewer",
+        "star": "47",
+        "language": "C",
+        "description": "VNCviewercomponentbyqtquick"
+    },
+    {
+        "header": "masterchen/Qt-Open-Source-Project",
+        "url": "https://github.com/masterchen/Qt-Open-Source-Project",
+        "star": "84",
+        "language": "",
+        "description": "记录Qt开发的开源项目"
+    },
+    {
+        "header": "cdai/qtbrowser",
+        "url": "https://github.com/cdai/qtbrowser",
+        "star": "22",
+        "language": "C++",
+        "description": "AQtbrowserdemo."
+    },
+    {
+        "header": "devbean/log4qt",
+        "url": "https://github.com/devbean/log4qt",
+        "star": "115",
+        "language": "C++",
+        "description": "LoggerforQt."
+    },
+    {
+        "header": "yuana1/facerec",
+        "url": "https://github.com/yuana1/facerec",
+        "star": "10",
+        "language": "C++",
+        "description": "基于v4l2和opencv的qt程序，人脸识别"
+    },
+    {
+        "header": "fengersoft/mymind",
+        "url": "https://github.com/fengersoft/mymind",
+        "star": "30",
+        "language": "C++",
+        "description": "AQTmindmappingproject这是一个QT开发的思维导图项目"
+    },
+    {
+        "header": "doxygen/doxygen",
+        "url": "https://github.com/doxygen/doxygen",
+        "star": "4263",
+        "language": "C++",
+        "description": "Officialdoxygengitrepository"
+    },
+    {
+        "header": "huzecong/FlowFree",
+        "url": "https://github.com/huzecong/FlowFree",
+        "star": "73",
+        "language": "C++",
+        "description": "Qtproject-FlowFreegame"
+    },
+    {
+        "header": "MeLikeyCode/QtGameTutorial",
+        "url": "https://github.com/MeLikeyCode/QtGameTutorial",
+        "star": "166",
+        "language": "C++",
+        "description": "CodefortheC++QtGameTutorialSeriesImadeforYouTube."
+    },
+    {
+        "header": "PacktPublishing/Game-Programming-Using-Qt-5-Beginners-Guide-Second-Edition",
+        "url": "https://github.com/PacktPublishing/Game-Programming-Using-Qt-5-Beginners-Guide-Second-Edition",
+        "star": "120",
+        "language": "C++",
+        "description": "GameProgrammingusingQt5Beginner’sGuide,SecondEdition,publishedbyPackt"
+    },
+    {
+        "header": "jaredtao/TreeEdit",
+        "url": "https://github.com/jaredtao/TreeEdit",
+        "star": "46",
+        "language": "QML",
+        "description": "QmlTreeEditwithControls2(Qml树结构编辑器，使用Controls2实现)"
+    },
+    {
+        "header": "jasonrohrer/OneLife",
+        "url": "https://github.com/jasonrohrer/OneLife",
+        "star": "869",
+        "language": "C++",
+        "description": "amultiplayersurvivalgameofparentingandcivilizationbuilding"
+    },
+    {
+        "header": "jvaelen/2048",
+        "url": "https://github.com/jvaelen/2048",
+        "star": "210",
+        "language": "C++",
+        "description": "AC++/Qtcloneofthepopular2048game"
+    },
+    {
+        "header": "keyu-tian/Gobang-by-Qt",
+        "url": "https://github.com/keyu-tian/Gobang-by-Qt",
+        "star": "49",
+        "language": "C++",
+        "description": "AGobanggame(includesanaiveAI)basedonMin-Max-SearchandAlpha-Beta-Pruningalgorithm.(byQt5.11)"
+    },
+    {
+        "header": "windywater/LandlordCardGame",
+        "url": "https://github.com/windywater/LandlordCardGame",
+        "star": "27",
+        "language": "C++",
+        "description": "具有简单出牌策略的单机斗地主游戏"
+    },
+    {
+        "header": "kevinbird61/BBTAN-on-Qt",
+        "url": "https://github.com/kevinbird61/BBTAN-on-Qt",
+        "star": "9",
+        "language": "C++",
+        "description": "ImplementAndroidgame-BBTANonQt"
+    },
+    {
+        "header": "Armour/Magic-Tower-Qt",
+        "url": "https://github.com/Armour/Magic-Tower-Qt",
+        "star": "50",
+        "language": "C++",
+        "description": "⚔️ThisistheC++(withQt)versionMagic-Towergame"
+    },
+    {
+        "header": "mzeilfelder/hc1",
+        "url": "https://github.com/mzeilfelder/hc1",
+        "star": "10",
+        "language": "C",
+        "description": "H-CraftChampionship"
+    },
+    {
+        "header": "DataRealms/CCOSS",
+        "url": "https://github.com/DataRealms/CCOSS",
+        "star": "359",
+        "language": "C++",
+        "description": "CortexCommand-OpenSourceunderGNUAGPLv3(nogamedataincluded)"
+    },
+    {
+        "header": "raduprv/Eternal-Lands",
+        "url": "https://github.com/raduprv/Eternal-Lands",
+        "star": "123",
+        "language": "C",
+        "description": ""
+    },
+    {
+        "header": "sunzuolei/carmela",
+        "url": "https://github.com/sunzuolei/carmela",
+        "star": "1",
+        "language": "C++",
+        "description": "ThedriverscodeforCarmela,theopensourcerobotbuiltbyMPIG"
+    },
+    {
+        "header": "sunzuolei/robotdriver",
+        "url": "https://github.com/sunzuolei/robotdriver",
+        "star": "1",
+        "language": "C++",
+        "description": "ThedfrrobotdriverbasedonQtandQextSerialPort."
+    },
+    {
+        "header": "sunzuolei/a2bot",
+        "url": "https://github.com/sunzuolei/a2bot",
+        "star": "1",
+        "language": "Java",
+        "description": "ThepatrolrobotwithArduinoandAndroid,implementedbasedonMPIGrobotCarmela"
+    },
+    {
+        "header": "chriskonstad/QtArduino",
+        "url": "https://github.com/chriskonstad/QtArduino",
+        "star": "7",
+        "language": "C++",
+        "description": "BasicQtapplicationandArduinosketchusedtoteachothershowtomakethemcommunicateoverUDP."
+    },
+    {
+        "header": "LeoWootsi/QtDemo",
+        "url": "https://github.com/LeoWootsi/QtDemo",
+        "star": "15",
+        "language": "C++",
+        "description": "串口波形显示助手"
+    },
+    {
+        "header": "Neroware/Neroware-Project2020",
+        "url": "https://github.com/Neroware/Neroware-Project2020",
+        "star": "20",
+        "language": "GDScript",
+        "description": "AnRPGforPixelArtLovers.Finallyagamethatdoesn'tjudgeyouforplayingLIKEYOUWANT..."
+    },
+    {
+        "header": "OpenDungeons/OpenDungeons",
+        "url": "https://github.com/OpenDungeons/OpenDungeons",
+        "star": "413",
+        "language": "C++",
+        "description": "OpensourcegameinspiredbyDungeonKeeper-Dark,dampanddangerous...|*Notactivelydevelopedanymore*"
+    },
+    {
+        "header": "melonjs/melonJS",
+        "url": "https://github.com/melonjs/melonJS",
+        "star": "4099",
+        "language": "JavaScript",
+        "description": "afresh&lightweightjavascriptgameengine"
+    },
+    {
+        "header": "OpenArena/engine",
+        "url": "https://github.com/OpenArena/engine",
+        "star": "184",
+        "language": "C",
+        "description": "OpenArenamodificationstotheioquake3engine"
+    },
+    {
+        "header": "codecombat/codecombat",
+        "url": "https://github.com/codecombat/codecombat",
+        "star": "7609",
+        "language": "CoffeeScript",
+        "description": "Gameforlearninghowtocode."
+    },
+    {
+        "header": "viliwonka/WeightedRandomSelector",
+        "url": "https://github.com/viliwonka/WeightedRandomSelector",
+        "star": "106",
+        "language": "C#",
+        "description": "VeryfastC#classforweightedrandompicking."
+    },
+    {
+        "header": "effolkronium/random",
+        "url": "https://github.com/effolkronium/random",
+        "star": "694",
+        "language": "C++",
+        "description": "RandomformodernC++withconvenientAPI"
+    },
+    {
+        "header": "reactos/reactos",
+        "url": "https://github.com/reactos/reactos",
+        "star": "11261",
+        "language": "C",
+        "description": "AfreeWindows-compatibleOperatingSystem"
+    },
+    {
+        "header": "claur/ProjectLibre",
+        "url": "https://github.com/claur/ProjectLibre",
+        "star": "39",
+        "language": "Java",
+        "description": "ProjectManagement"
+    },
+    {
+        "header": "citybound/citybound",
+        "url": "https://github.com/citybound/citybound",
+        "star": "7075",
+        "language": "Rust",
+        "description": "Awork-in-progress,open-source,multi-playercitysimulationgame."
+    },
+    {
+        "header": "karan/Projects",
+        "url": "https://github.com/karan/Projects",
+        "star": "39395",
+        "language": "",
+        "description": ":page_with_curl:Alistofpracticalprojectsthatanyonecansolveinanyprogramminglanguage."
+    },
+    {
+        "header": "AnyListen/tools-ocr",
+        "url": "https://github.com/AnyListen/tools-ocr",
+        "star": "2492",
+        "language": "Java",
+        "description": "树洞OCR文字识别（一款跨平台的OCR小工具）"
+    },
+    {
+        "header": "Osndok/vym",
+        "url": "https://github.com/Osndok/vym",
+        "star": "10",
+        "language": "C++",
+        "description": "GUImind-mappingtool-\"ViewYourMind\"-Mirrorfromupstream(SourceForge)"
+    },
+    {
+        "header": "felixhayashi/TW5-TiddlyMap",
+        "url": "https://github.com/felixhayashi/TW5-TiddlyMap",
+        "star": "729",
+        "language": "JavaScript",
+        "description": "Mapdrawingandtopicvisualizationforyourwiki"
+    },
+    {
+        "header": "jiangxin/freemind-mmx",
+        "url": "https://github.com/jiangxin/freemind-mmx",
+        "star": "62",
+        "language": "Java",
+        "description": "FreeMindwithbetterversioncontrolsupport"
+    },
+    {
+        "header": "jgm/pandoc",
+        "url": "https://github.com/jgm/pandoc",
+        "star": "26136",
+        "language": "Haskell",
+        "description": "Universalmarkupconverter"
+    },
+    {
+        "header": "benbalter/word-to-markdown",
+        "url": "https://github.com/benbalter/word-to-markdown",
+        "star": "1297",
+        "language": "Ruby",
+        "description": "ArubygemtoliberatecontentfromMicrosoftWorddocuments"
+    },
+    {
+        "header": "Twzy/MarkWord",
+        "url": "https://github.com/Twzy/MarkWord",
+        "star": "91",
+        "language": "C#",
+        "description": "amarkdownediter"
+    },
+    {
+        "header": "benweet/stackedit",
+        "url": "https://github.com/benweet/stackedit",
+        "star": "19471",
+        "language": "JavaScript",
+        "description": "In-browserMarkdowneditor"
+    },
+    {
+        "header": "laurent22/joplin",
+        "url": "https://github.com/laurent22/joplin",
+        "star": "30977",
+        "language": "TypeScript",
+        "description": "Joplin-anopensourcenotetakingandto-doapplicationwithsynchronisationcapabilitiesforWindows,macOS,Linux,AndroidandiOS."
+    },
+    {
+        "header": "vnotex/vnote",
+        "url": "https://github.com/vnotex/vnote",
+        "star": "9490",
+        "language": "C++",
+        "description": "Apleasantnote-takingplatform."
+    },
+    {
+        "header": "opf/openproject",
+        "url": "https://github.com/opf/openproject",
+        "star": "5923",
+        "language": "Ruby",
+        "description": "OpenProjectistheleadingopensourceprojectmanagementsoftware."
+    },
+    {
+        "header": "wzpan/dingdang-robot",
+        "url": "https://github.com/wzpan/dingdang-robot",
+        "star": "1826",
+        "language": "Python",
+        "description": "🤖叮当是一款可以工作在RaspberryPi上的中文语音对话机器人/智能音箱项目。"
+    },
+    {
+        "header": "kanboard/kanboard",
+        "url": "https://github.com/kanboard/kanboard",
+        "star": "6690",
+        "language": "PHP",
+        "description": "Kanbanprojectmanagementsoftware"
+    },
+    {
+        "header": "zyx0814/dzzoffice",
+        "url": "https://github.com/zyx0814/dzzoffice",
+        "star": "3503",
+        "language": "PHP",
+        "description": "dzzoffice"
+    },
+    {
+        "header": "veyon/veyon",
+        "url": "https://github.com/veyon/veyon",
+        "star": "837",
+        "language": "C++",
+        "description": "Cross-platformcomputermonitoringandclassroommanagement"
+    },
+    {
+        "header": "nikita36078/J2ME-Loader",
+        "url": "https://github.com/nikita36078/J2ME-Loader",
+        "star": "1199",
+        "language": "Java",
+        "description": "AJ2MEemulatorforAndroid."
+    },
+    {
+        "header": "ckjbug/XMind-Learning",
+        "url": "https://github.com/ckjbug/XMind-Learning",
+        "star": "260",
+        "language": "",
+        "description": "❄️自己整理的思维导图学习资料（IT专业技术）"
+    },
+    {
+        "header": "Naereen/uLogMe",
+        "url": "https://github.com/Naereen/uLogMe",
+        "star": "60",
+        "language": "HTML",
+        "description": ":bar_chart::chart_with_upwards_trend:AutomaticallycollectandvisualizeusagestatisticsonUbuntu,with:musical_keyboard:keyfrequenciesand:computer:windowtitles→"
+    },
+    {
+        "header": "freeplane/freeplane",
+        "url": "https://github.com/freeplane/freeplane",
+        "star": "1032",
+        "language": "Java",
+        "description": ""
+    },
+    {
+        "header": "pzhaonet/mindr",
+        "url": "https://github.com/pzhaonet/mindr",
+        "star": "549",
+        "language": "R",
+        "description": "anRpackagewhichconvertsmarkdownfiles(.md,.Rmd)intomindmaps(brainstorms)"
+    },
+    {
+        "header": "ym2011/SecurityMind",
+        "url": "https://github.com/ym2011/SecurityMind",
+        "star": "353",
+        "language": "HTML",
+        "description": "shareexperiencetowardsforinformationmanagement,brainstormingandsoon."
+    },
+    {
+        "header": "nomeata/arbtt",
+        "url": "https://github.com/nomeata/arbtt",
+        "star": "226",
+        "language": "Haskell",
+        "description": "arbtt,theautomaticrule-basedtime-tracker"
+    },
+    {
+        "header": "rejuvyesh/arbtt-graph",
+        "url": "https://github.com/rejuvyesh/arbtt-graph",
+        "star": "67",
+        "language": "JavaScript",
+        "description": "Plotgraphsfromarbtt-stats"
+    },
+    {
+        "header": "selfspy/selfspy",
+        "url": "https://github.com/selfspy/selfspy",
+        "star": "2304",
+        "language": "Python",
+        "description": "Logeverythingyoudoonthecomputer,forstatistics,futurereferenceandall-aroundfun!"
+    },
+    {
+        "header": "karpathy/ulogme",
+        "url": "https://github.com/karpathy/ulogme",
+        "star": "853",
+        "language": "Python",
+        "description": "AutomaticallycollectandvisualizeusagestatisticsinUbuntu/OSXenvironments."
+    },
+    {
+        "header": "aardappel/procrastitracker",
+        "url": "https://github.com/aardappel/procrastitracker",
+        "star": "392",
+        "language": "C",
+        "description": "aWindowstimetrackingapplication"
+    },
+    {
+        "header": "tomighty/tomighty",
+        "url": "https://github.com/tomighty/tomighty",
+        "star": "942",
+        "language": "Java",
+        "description": "OldTomightyrepo.Forthenewrepos,pleasereferto:tomighty-osxandtomighty-windows"
+    },
+    {
+        "header": "anuko/timetracker",
+        "url": "https://github.com/anuko/timetracker",
+        "star": "163",
+        "language": "PHP",
+        "description": "Simple,easytouse,opensourcetimetrackingsystem."
+    },
+    {
+        "header": "winsiderss/systeminformer",
+        "url": "https://github.com/winsiderss/systeminformer",
+        "star": "7772",
+        "language": "C",
+        "description": "Afree,powerful,multi-purposetoolthathelpsyoumonitorsystemresources,debugsoftwareanddetectmalware.BroughttoyoubyWinsiderSeminars&Solutions,Inc.@http://www.windows-internals.com"
+    },
+    {
+        "header": "kevinpapst/kimai2",
+        "url": "https://github.com/kevinpapst/kimai2",
+        "star": "1786",
+        "language": "PHP",
+        "description": "Kimaiv2isaweb-basedmultiusertime-trackingapplication.Freeforeveryone:freelancers,agencies,companies,organizations-allcantracktheirtimes,generateinvoicesandmore.SaaSversionavailableathttps://www.kimai.cloud"
+    },
+    {
+        "header": "fnet123/clover",
+        "url": "https://github.com/fnet123/clover",
+        "star": "187",
+        "language": "Java",
+        "description": "clover1、开发server和client端定时向zk集群发送心跳数据包，利用Java自带的timer程序实现该功能2、开发整天的monitor程序，用来定时向zk中获取server和client端的心跳数据信息，如果超过指定时间没有收到最新的数据包，那么任务server端或者client端死掉了，此时要删除该server或client端节点，发邮件通知相关人员，记录异常日志到系统日志文件和MongoDB中3、client端接受创建job请求，将job信息创建到client服务端，并根据job时间规则运行，并将任务信息存储到MongoDB中4、当client端job运行时候，封装执行任务信息,发送到指定客户端机器，更新client端job执行时间和状态，如不在需要继续运行，那删除job并从MongoDB中删除相关任务信息5、client端接受删除job请求，client服务端，立即执行删除job并将任务信息从MongoDB中删除6、client端接受更新job请求，client服务端，立即执行删除job并创建新job,并将任务信息从MongoDB中删除,然后再存储新job信息7、第一版使用Netty做消息通讯中间件，存储消息放入Redis中，服务器开启Http请求，客户端通过发送Http请求到服务器来处理请求，由于任务太多redis处理能力不行，放弃该方案第二版使用NettyRPC框架，自己开发一个Server端和Client，各种启动指定端口，由于必须要求Server端和Client必须启动才能进行消息发送，所以感觉非常不灵活，因为放弃该方案第三版使用架构组推荐的rocketmq,通过使用发现，很严重问题，消息会重复发送，经常会收到重复的消息，在测试的时候发现，经常发生消息异常和报错，跟架构组刘婷峰沟通说，可能是机器性能不行了，他也不知道具体原因，感觉非常不靠谱，果断放弃第四版使用zeromq,通过在网上查资料，对比各种mq后，发现zeromq是最轻量级，出现消息是最快的，经过测试完全能满足业务，果断使用8、由于项目中使用zk,自己开发zk使用工具类，定制server端增删改查zk消息以及定制client端增删改查zk消息,功能测试zk,目前打算增加zkwatch功能9、开发server和client端定时向zk集群发送心跳数据包，利用Java自带的timer程序实现该功能10、开发整天的monitor程序，用来定时向zk中获取server和client端的心跳数据信息，如果超过指定时间没有收到最新的数据包，那么任务server端或者client端死掉了，此时要删除该server或client端节点，发邮件通知相关人员，记录异常日志到系统日志文件和MongoDB中11、开发console控制台管理，可以查看任务动态运行状态和次数信息12、zk管理页面，查看server和client端节点信息，更新和删除节点信息13、job管理页面，查看job详细信息14、联系人管理页面，增删改查联系人信息15、log日志管理页面，根据系统报错记录的日志信息，在页面中可以详细查看"
+    },
+    {
+        "header": "lyandy/ISoft_Source",
+        "url": "https://github.com/lyandy/ISoft_Source",
+        "star": "69",
+        "language": "C#",
+        "description": ""
+    },
+    {
+        "header": "numenta/nupic",
+        "url": "https://github.com/numenta/nupic",
+        "star": "6293",
+        "language": "Python",
+        "description": "NumentaPlatformforIntelligentComputingisanimplementationofHierarchicalTemporalMemory(HTM),atheoryofintelligencebasedstrictlyontheneuroscienceoftheneocortex."
+    },
+    {
+        "header": "yuanyuanxiang/Keeper",
+        "url": "https://github.com/yuanyuanxiang/Keeper",
+        "star": "38",
+        "language": "C++",
+        "description": "一种守护程序，可对Windows控制台或任何可执行程序进行守护，在程序崩溃时立即重启程序，并可向监控终端（远程控制器：RemoteController.exe）定时上报程序的运行状态，例如运行时长、线程句柄数、内存使用率、崩溃次数、程序版本等信息。使用方法详见《Keeper使用说明》。"
+    },
+    {
+        "header": "Wox-launcher/Wox",
+        "url": "https://github.com/Wox-launcher/Wox",
+        "star": "22009",
+        "language": "C#",
+        "description": "LauncherforWindows,analternativetoAlfredandLaunchy."
+    },
+    {
+        "header": "rainmeter/rainmeter",
+        "url": "https://github.com/rainmeter/rainmeter",
+        "star": "3412",
+        "language": "C",
+        "description": "DesktopcustomizationtoolforWindows"
+    },
+    {
+        "header": "langhsu/mblog",
+        "url": "https://github.com/langhsu/mblog",
+        "star": "437",
+        "language": "Java",
+        "description": "开源免费的Java博客系统,采用spring-boot、spring-data-jpa、shiro、freemarker、bootstrap等框架,支持Docker"
+    },
+    {
+        "header": "ZHENFENG13/My-Blog",
+        "url": "https://github.com/ZHENFENG13/My-Blog",
+        "star": "2736",
+        "language": "Java",
+        "description": ":palm_tree::octocat:Asimple&beautifulbloggingsystemimplementedwithspring-boot&thymeleaf&mybatisMyBlog是由SpringBoot+Mybatis+Thymeleaf等技术实现的Java博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验"
+    },
+    {
+        "header": "saysky/SENS",
+        "url": "https://github.com/saysky/SENS",
+        "star": "375",
+        "language": "Java",
+        "description": "基于SpringBoot+MyBatis+Shiro+Redis+ElasticSearch的企业级博客系统"
+    },
+    {
+        "header": "ijson/in-blog-boot",
+        "url": "https://github.com/ijson/in-blog-boot",
+        "star": "20",
+        "language": "HTML",
+        "description": "BlogsystembasedonSpringBoot/Mongodb"
+    },
+    {
+        "header": "JPressProjects/jpress",
+        "url": "https://github.com/JPressProjects/jpress",
+        "star": "2459",
+        "language": "Java",
+        "description": "JPress，一个使用Java开发的建站神器，目前已经有10w+网站使用JPress进行驱动，其中包括多个政府机构，200+上市公司，中科院、红+字会等。"
+    },
+    {
+        "header": "88250/solo",
+        "url": "https://github.com/88250/solo",
+        "star": "1139",
+        "language": "CSS",
+        "description": "🎸B3log分布式社区的Java博客端节点系统，欢迎加入下一代社区网络。B3logdistributedcommunityblog-endnodebasedonJava,welcometojointhenextgenerationcommunitynetwork."
+    },
+    {
+        "header": "o2oa/o2oa",
+        "url": "https://github.com/o2oa/o2oa",
+        "star": "3223",
+        "language": "JavaScript",
+        "description": "开源OA系统-码云GVP|Java开源oa|企业OA办公平台|企业OA|协同办公OA|流程平台OA|O2OA|OA，支持国产麒麟操作系统和国产数据库（达梦、人大金仓），政务OA，军工信息化OA"
+    },
+    {
+        "header": "ninja-ide/ninja-ide",
+        "url": "https://github.com/ninja-ide/ninja-ide",
+        "star": "913",
+        "language": "Python",
+        "description": "{Ninja-IDEIsNotJustAnotherIDE}"
+    },
+    {
+        "header": "GNOME/dia",
+        "url": "https://github.com/GNOME/dia",
+        "star": "296",
+        "language": "C",
+        "description": "Read-onlymirrorofhttps://gitlab.gnome.org/GNOME/dia"
+    },
+    {
+        "header": "inverse-inc/packetfence",
+        "url": "https://github.com/inverse-inc/packetfence",
+        "star": "1018",
+        "language": "Perl",
+        "description": "PacketFenceisafullysupported,trusted,FreeandOpenSourcenetworkaccesscontrol(NAC)solution.Boastinganimpressivefeaturesetincludingacaptive-portalforregistrationandremediation,centralizedwiredandwirelessmanagement,powerfulBYODmanagementoptions,802.1Xsupport,layer-2isolationofproblematicdevices;PacketFencecanbeusedtoeffectivelysecurenetworkssmalltoverylargeheterogeneousnetworks."
+    },
+    {
+        "header": "liudf0716/wwas",
+        "url": "https://github.com/liudf0716/wwas",
+        "star": "68",
+        "language": "JavaScript",
+        "description": "wifidogauthserverforsupportingwfcpaymentandweixinlian"
+    },
+    {
+        "header": "marcusbritanicus/NewBreeze",
+        "url": "https://github.com/marcusbritanicus/NewBreeze",
+        "star": "59",
+        "language": "C++",
+        "description": "NewBreezeFileManagerbasedonQt"
+    },
+    {
+        "header": "ZSmain/Simple-Library-Manager",
+        "url": "https://github.com/ZSmain/Simple-Library-Manager",
+        "star": "1",
+        "language": "C++",
+        "description": "SimpleLibraryManagerC++usingtheQtLibrary(Qt5)"
+    },
+    {
+        "header": "filesdnd/filesdnd-qt",
+        "url": "https://github.com/filesdnd/filesdnd-qt",
+        "star": "31",
+        "language": "C++",
+        "description": "Simplerfiletransferbetweenyourdevicesandyourcomputer."
+    },
+    {
+        "header": "adolby/Kryvo",
+        "url": "https://github.com/adolby/Kryvo",
+        "star": "7",
+        "language": "C++",
+        "description": "Cross-platformfileencryptor"
+    },
+    {
+        "header": "Lightjohn/QtFileExplorer",
+        "url": "https://github.com/Lightjohn/QtFileExplorer",
+        "star": "12",
+        "language": "C++",
+        "description": "Qtquickimagevisualisationwithmillercolumns"
+    },
+    {
+        "header": "alexeylysenko/CryptFileDevice",
+        "url": "https://github.com/alexeylysenko/CryptFileDevice",
+        "star": "53",
+        "language": "C++",
+        "description": "Qtcross-platformclasswhichallowstransparentlyencrypt/decryptQFileDeviceusingAESalgorithmwithOpenSSLlibrary"
+    },
+    {
+        "header": "Mokolea/SimpleQtLogger",
+        "url": "https://github.com/Mokolea/SimpleQtLogger",
+        "star": "71",
+        "language": "C++",
+        "description": "SimplerollingfileloggerforQt."
+    },
+    {
+        "header": "ycsoft/QtQQ",
+        "url": "https://github.com/ycsoft/QtQQ",
+        "star": "88",
+        "language": "C++",
+        "description": "使用Qt开发的一款即时通信软件，支持文件传输、语音、文件共享、CA登录、聊天记录同步等等"
+    },
+    {
+        "header": "pezy/QtLab",
+        "url": "https://github.com/pezy/QtLab",
+        "star": "80",
+        "language": "C++",
+        "description": ":wrench:QtPrimer"
+    },
+    {
+        "header": "lycis/QtDropbox",
+        "url": "https://github.com/lycis/QtDropbox",
+        "star": "103",
+        "language": "C++",
+        "description": "DropboxAPIforQt"
+    },
+    {
+        "header": "ABBAPOH/andromeda",
+        "url": "https://github.com/ABBAPOH/andromeda",
+        "star": "15",
+        "language": "C++",
+        "description": "Cross-platformfilemanager,writtenonQt."
+    },
+    {
+        "header": "hhyvs111/FileManagement",
+        "url": "https://github.com/hhyvs111/FileManagement",
+        "star": "11",
+        "language": "C++",
+        "description": "实验室管理系统"
+    },
+    {
+        "header": "triochi/QtAdb",
+        "url": "https://github.com/triochi/QtAdb",
+        "star": "152",
+        "language": "C++",
+        "description": "AndroidFileManagerusingAndroidDebugBridgeandbasedonQt"
+    },
+    {
+        "header": "KDE/dolphin",
+        "url": "https://github.com/KDE/dolphin",
+        "star": "308",
+        "language": "C++",
+        "description": "FilemanagerbyKDE"
+    },
+    {
+        "header": "dbzhang800/QtXlsxWriter",
+        "url": "https://github.com/dbzhang800/QtXlsxWriter",
+        "star": "962",
+        "language": "C++",
+        "description": ".xlsxfilereaderandwriterforQt5"
+    },
+    {
+        "header": "UrsZeidler/uml2solidity",
+        "url": "https://github.com/UrsZeidler/uml2solidity",
+        "star": "35",
+        "language": "Java",
+        "description": "Aumlprofileandasetofacceleocodegeneratorstomodelsmartcontractsinumlandgeneratesoliditycode."
+    },
+    {
+        "header": "talsma-ict/umldoclet",
+        "url": "https://github.com/talsma-ict/umldoclet",
+        "star": "176",
+        "language": "Java",
+        "description": "AutomaticallygeneratePlantUMLdiagramsinjavadoc"
+    },
+    {
+        "header": "plantuml/plantuml",
+        "url": "https://github.com/plantuml/plantuml",
+        "star": "6330",
+        "language": "Java",
+        "description": "Generatediagramsfromtextualdescription"
+    },
+    {
+        "header": "olivere/elastic",
+        "url": "https://github.com/olivere/elastic",
+        "star": "6941",
+        "language": "Go",
+        "description": "ElasticsearchclientforGo."
+    },
+    {
+        "header": "torvalds/linux",
+        "url": "https://github.com/torvalds/linux",
+        "star": "135643",
+        "language": "C",
+        "description": "Linuxkernelsourcetree"
+    },
+    {
+        "header": "ovity/octotree",
+        "url": "https://github.com/ovity/octotree",
+        "star": "22116",
+        "language": "JavaScript",
+        "description": "GitHubonsteroids"
+    },
+    {
+        "header": "facebookarchive/pfff",
+        "url": "https://github.com/facebookarchive/pfff",
+        "star": "2431",
+        "language": "OCaml",
+        "description": "Toolsforcodeanalysis,visualizations,orstyle-preservingsourcetransformation."
+    },
+    {
+        "header": "LibreCAD/LibreCAD",
+        "url": "https://github.com/LibreCAD/LibreCAD",
+        "star": "2938",
+        "language": "C++",
+        "description": "LibreCADisacross-platform2DCADprogramwritteninC++11usingtheQtframework.ItcanreadDXFandDWGfilesandcanwriteDXF,PDFandSVGfiles.Theuserinterfaceishighlycustomizable,andhasdozensoftranslations."
+    },
+    {
+        "header": "ONLYOFFICE/core",
+        "url": "https://github.com/ONLYOFFICE/core",
+        "star": "199",
+        "language": "C++",
+        "description": "ServercorecomponentswhichareapartofONLYOFFICEDocumentServer"
+    },
+    {
+        "header": "baumgarr/nixnote2",
+        "url": "https://github.com/baumgarr/nixnote2",
+        "star": "1100",
+        "language": "C++",
+        "description": "Nixnote-AcloneofEvernoteforLinux"
+    },
+    {
+        "header": "dchapyshev/aspia",
+        "url": "https://github.com/dchapyshev/aspia",
+        "star": "1124",
+        "language": "C++",
+        "description": "Remotedesktopandfiletransfertool."
+    },
+    {
+        "header": "VioletGiraffe/file-commander",
+        "url": "https://github.com/VioletGiraffe/file-commander",
+        "star": "280",
+        "language": "C++",
+        "description": "Cross-platformTotalCommander-likeorthodoxfilemanagerforWindows,MacandLinux"
+    },
+    {
+        "header": "Bbbzhao/WMS",
+        "url": "https://github.com/Bbbzhao/WMS",
+        "star": "255",
+        "language": "Java",
+        "description": "一个基于SSM框架的仓库管理系统Demo。AwarehousemanagementsystembaseonSpringMVC,SpringFramework,MyBstisandMySQL"
+    },
+    {
+        "header": "o2team/xcel",
+        "url": "https://github.com/o2team/xcel",
+        "star": "668",
+        "language": "Vue",
+        "description": "一个基于Electron和Vue的Excel数据过滤工具——凹凸实验室出品https://aotu.io/notes/2016/11/15/xcel/"
+    },
+    {
+        "header": "OpenNMS/opennms",
+        "url": "https://github.com/OpenNMS/opennms",
+        "star": "692",
+        "language": "Java",
+        "description": "Enterprise-GradeOpen-SourceNetworkManagementPlatform"
+    },
+    {
+        "header": "kovidgoyal/calibre",
+        "url": "https://github.com/kovidgoyal/calibre",
+        "star": "12914",
+        "language": "Python",
+        "description": "Theofficialsourcecoderepositoryforthecalibreebookmanager"
+    },
+    {
+        "header": "LibreOffice/core",
+        "url": "https://github.com/LibreOffice/core",
+        "star": "1646",
+        "language": "",
+        "description": "Read-onlyLibreOfficecorerepo-nopullrequest(usegerritinsteadhttps://gerrit.libreoffice.org/)-don'tdownloadzip,usehttps://dev-www.libreoffice.org/bundles/instead"
+    },
+    {
+        "header": "d3/d3",
+        "url": "https://github.com/d3/d3",
+        "star": "102239",
+        "language": "JavaScript",
+        "description": "BringdatatolifewithSVG,CanvasandHTML.:bar_chart::chart_with_upwards_trend::tada:"
+    },
+    {
+        "header": "rizinorg/cutter",
+        "url": "https://github.com/rizinorg/cutter",
+        "star": "11777",
+        "language": "C++",
+        "description": "FreeandOpenSourceReverseEngineeringPlatformpoweredbyrizin"
+    },
+    {
+        "header": "otfried/ipe",
+        "url": "https://github.com/otfried/ipe",
+        "star": "180",
+        "language": "",
+        "description": "TheextensibledrawingeditorIpe"
+    },
+    {
+        "header": "DoUML/douml",
+        "url": "https://github.com/DoUML/douml",
+        "star": "68",
+        "language": "C++",
+        "description": "DoUMLproject:forkofBoUML4.22"
+    },
+    {
+        "header": "gregsmirnov/bouml",
+        "url": "https://github.com/gregsmirnov/bouml",
+        "star": "24",
+        "language": "C++",
+        "description": "BOUMLisafreeUML2toolboxallowingyoutospecifyandgeneratecodeinC++,Java,Idl,PhpandPython."
+    },
+    {
+        "header": "nitroshare/nitroshare-desktop",
+        "url": "https://github.com/nitroshare/nitroshare-desktop",
+        "star": "1343",
+        "language": "C++",
+        "description": "NetworkfiletransferapplicationforWindows,OSX,&Linux"
+    },
+    {
+        "header": "equalsraf/neovim-qt",
+        "url": "https://github.com/equalsraf/neovim-qt",
+        "star": "1425",
+        "language": "C++",
+        "description": "NeovimclientlibraryandGUI,inQt5."
+    },
+    {
+        "header": "KDAB/hotspot",
+        "url": "https://github.com/KDAB/hotspot",
+        "star": "2670",
+        "language": "C++",
+        "description": "TheLinuxperfGUIforperformanceanalysis."
+    },
+    {
+        "header": "r0x0r/pywebview",
+        "url": "https://github.com/r0x0r/pywebview",
+        "star": "3021",
+        "language": "Python",
+        "description": "BuildGUIforyourPythonprogramwithJavaScript,HTML,andCSS"
+    },
+    {
+        "header": "mkeeter/antimony",
+        "url": "https://github.com/mkeeter/antimony",
+        "star": "1950",
+        "language": "C++",
+        "description": "CADfromaparalleluniverse"
+    },
+    {
+        "header": "mapbox/mapbox-gl-native",
+        "url": "https://github.com/mapbox/mapbox-gl-native",
+        "star": "4162",
+        "language": "C++",
+        "description": "Interactive,thoroughlycustomizablemapsinnativeAndroid,iOS,macOS,Node.js,andQtapplications,poweredbyvectortilesandOpenGL"
+    },
+    {
+        "header": "musescore/MuseScore",
+        "url": "https://github.com/musescore/MuseScore",
+        "star": "7302",
+        "language": "C++",
+        "description": "MuseScoreisanopensourceandfreemusicnotationsoftware.Forsupport,contribution,bugreports,visitMuseScore.org.Forkandmakepullrequests!"
+    },
+    {
+        "header": "jopohl/urh",
+        "url": "https://github.com/jopohl/urh",
+        "star": "8431",
+        "language": "Python",
+        "description": "UniversalRadioHacker:InvestigateWirelessProtocolsLikeABoss"
+    },
+    {
+        "header": "mapeditor/tiled",
+        "url": "https://github.com/mapeditor/tiled",
+        "star": "8942",
+        "language": "C++",
+        "description": "Flexibleleveleditor"
+    },
+    {
+        "header": "Slicer/SlicerGitSVNArchive",
+        "url": "https://github.com/Slicer/SlicerGitSVNArchive",
+        "star": "893",
+        "language": "C++",
+        "description": "Multi-platform,freeopensourcesoftwareforvisualizationandimagecomputing."
+    },
+    {
+        "header": "GoldenCheetah/GoldenCheetah",
+        "url": "https://github.com/GoldenCheetah/GoldenCheetah",
+        "star": "1438",
+        "language": "Standard ML",
+        "description": "PerformanceSoftwareforCyclists,Runners,TriathletesandCoaches"
+    },
+    {
+        "header": "qmlbook/qmlbook",
+        "url": "https://github.com/qmlbook/qmlbook",
+        "star": "2377",
+        "language": "Batchfile",
+        "description": "Thesourcecodefortheupcomingqmlbook"
+    },
+    {
+        "header": "cloose/CuteMarkEd",
+        "url": "https://github.com/cloose/CuteMarkEd",
+        "star": "1304",
+        "language": "C++",
+        "description": "QtMarkdownEditor"
+    },
+    {
+        "header": "qTox/qTox",
+        "url": "https://github.com/qTox/qTox",
+        "star": "4138",
+        "language": "C++",
+        "description": "qToxisachat,voice,video,andfiletransferIMclientusingtheencryptedpeer-to-peerToxprotocol."
+    },
+    {
+        "header": "tesseract-ocr/tesseract",
+        "url": "https://github.com/tesseract-ocr/tesseract",
+        "star": "46121",
+        "language": "C++",
+        "description": "TesseractOpenSourceOCREngine(mainrepository)"
+    },
+    {
+        "header": "hokein/electron-sample-apps",
+        "url": "https://github.com/hokein/electron-sample-apps",
+        "star": "3734",
+        "language": "JavaScript",
+        "description": "SampleappsforElectron"
+    },
+    {
+        "header": "atom/atom",
+        "url": "https://github.com/atom/atom",
+        "star": "58334",
+        "language": "JavaScript",
+        "description": ":atom:Thehackabletexteditor"
+    },
+    {
+        "header": "anbox/anbox",
+        "url": "https://github.com/anbox/anbox",
+        "star": "7820",
+        "language": "C++",
+        "description": "Anboxisacontainer-basedapproachtobootafullAndroidsystemonaregularGNU/Linuxsystem"
+    },
+    {
+        "header": "electron/electron",
+        "url": "https://github.com/electron/electron",
+        "star": "102875",
+        "language": "C++",
+        "description": ":electron:Buildcross-platformdesktopappswithJavaScript,HTML,andCSS"
+    },
+    {
+        "header": "nicktogo/coeditor",
+        "url": "https://github.com/nicktogo/coeditor",
+        "star": "29",
+        "language": "JavaScript",
+        "description": "YetAnotherPairProgrammingPackageforAtom."
+    },
+    {
+        "header": "bruceoutdoors/DrawingApp",
+        "url": "https://github.com/bruceoutdoors/DrawingApp",
+        "star": "69",
+        "language": "C++",
+        "description": "SimpledrawingprogramcreatedusingQt"
+    },
+    {
+        "header": "PhoenixOS/kernel",
+        "url": "https://github.com/PhoenixOS/kernel",
+        "star": "234",
+        "language": "C",
+        "description": "PhoenixOSKernelOpenSourceCode"
+    },
+    {
+        "header": "methodofaction/Method-Draw",
+        "url": "https://github.com/methodofaction/Method-Draw",
+        "star": "2284",
+        "language": "JavaScript",
+        "description": "MethodDraw,theSVGEditorforMethodofAction"
+    },
+    {
+        "header": "SVG-Edit/svgedit",
+        "url": "https://github.com/SVG-Edit/svgedit",
+        "star": "5077",
+        "language": "JavaScript",
+        "description": "PowerfulSVG-Editorforyourbrowser"
+    },
+    {
+        "header": "CMB/edbrowse",
+        "url": "https://github.com/CMB/edbrowse",
+        "star": "238",
+        "language": "C",
+        "description": "Acommand-lineeditorandwebbrowser."
+    },
+    {
+        "header": "thinkgem/jeesite",
+        "url": "https://github.com/thinkgem/jeesite",
+        "star": "7817",
+        "language": "JavaScript",
+        "description": "Javarapiddevelopmentplatform,based(SpringBoot,SpringMVC,ApacheShiro,MyBatis,Beetl,Bootstrap,AdminLTE),onlinecodegeneration,includingmodules:Organization,roleusers,menuandbuttonauthorization,datapermissions,systemparameters,contentmanagement,workflow,etc.Loosecouplingdesignisadopted;onekeyskinswitch;accountsecuritySettings,passwordpolicies;Onlinescheduledtaskconfiguration;Supportcluster,supportSAAS;Supportformultipledatasources"
+    },
+    {
+        "header": "EasyDarwin/EasyDarwin",
+        "url": "https://github.com/EasyDarwin/EasyDarwin",
+        "star": "5549",
+        "language": "Go",
+        "description": "opensource、highperformance、industrialrtspstreamingserver,alotofoptimizationonstreamingrelay,KeyFramecache,RESTful,andwebmanagement,alsoEasyDarwinsupportdistributedloadbalancing,asimplestreamingmediacloudplatformarchitecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！"
+    },
+    {
+        "header": "bingoogolapple/BGAQRCode-Android",
+        "url": "https://github.com/bingoogolapple/BGAQRCode-Android",
+        "star": "7598",
+        "language": "C",
+        "description": "QRCode扫描二维码、扫描条形码、相册获取图片后识别、生成带Logo二维码、支持微博微信QQ二维码扫描样式"
+    },
+    {
+        "header": "zxing/zxing",
+        "url": "https://github.com/zxing/zxing",
+        "star": "29878",
+        "language": "Java",
+        "description": "ZXing(\"ZebraCrossing\")barcodescanninglibraryforJava,Android"
+    },
+    {
+        "header": "brianwernick/ExoMedia",
+        "url": "https://github.com/brianwernick/ExoMedia",
+        "star": "1978",
+        "language": "Kotlin",
+        "description": "AnAndroidExoPlayerwrappertosimplifyAudioandVideoimplementations"
+    },
+    {
+        "header": "yixia/VitamioBundle",
+        "url": "https://github.com/yixia/VitamioBundle",
+        "star": "5264",
+        "language": "Java",
+        "description": "VitamioforAndroid"
+    },
+    {
+        "header": "GeekLiB/AR-Source",
+        "url": "https://github.com/GeekLiB/AR-Source",
+        "star": "1653",
+        "language": "",
+        "description": "Augmentedreality(AR)developmentresources(增强现实开发资源汇总)---AIRX整理"
+    },
+    {
+        "header": "lizhangqu/CoreLink",
+        "url": "https://github.com/lizhangqu/CoreLink",
+        "star": "2714",
+        "language": "Java",
+        "description": "Android开发中的日常积累"
+    },
+    {
+        "header": "openproject/AndroidDigest",
+        "url": "https://github.com/openproject/AndroidDigest",
+        "star": "436",
+        "language": "Java",
+        "description": "[DEPRECATED]android相关的干货(文摘，名博，github等等)"
+    },
+    {
+        "header": "wangdan/AisenWeiBo",
+        "url": "https://github.com/wangdan/AisenWeiBo",
+        "star": "1823",
+        "language": "Java",
+        "description": "新浪微博第三方Android客户端"
+    },
+    {
+        "header": "open-android/Android",
+        "url": "https://github.com/open-android/Android",
+        "star": "12617",
+        "language": "",
+        "description": "GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频"
+    },
+    {
+        "header": "spring-projects/spring-framework",
+        "url": "https://github.com/spring-projects/spring-framework",
+        "star": "48636",
+        "language": "Java",
+        "description": "SpringFramework"
+    },
+    {
+        "header": "shadowsocks/shadowsocks-manager",
+        "url": "https://github.com/shadowsocks/shadowsocks-manager",
+        "star": "4076",
+        "language": "JavaScript",
+        "description": "Ashadowsocksmanagertoolformultiuserandtrafficcontrol."
+    },
+    {
+        "header": "apache/ofbiz",
+        "url": "https://github.com/apache/ofbiz",
+        "star": "745",
+        "language": "Java",
+        "description": "ApacheOFBiz-Maindevelopmenthasmovedtotheofbiz-frameworksrepository."
+    },
+    {
+        "header": "zhanglei-workspace/shopping-management-system",
+        "url": "https://github.com/zhanglei-workspace/shopping-management-system",
+        "star": "4324",
+        "language": "Java",
+        "description": "该项目为多个小项目的集合（持续更新中...）。内容类似淘宝、京东等网购管理系统以及图书管理、超市管理等系统。目的在于便于Java初级爱好者在学习完某一部分Java知识后有一个合适的项目锻炼、运用所学知识，完善知识体系。适用人群：Java基础到入门的爱好者。"
+    },
+    {
+        "header": "SonarSource/sonarqube",
+        "url": "https://github.com/SonarSource/sonarqube",
+        "star": "7032",
+        "language": "Java",
+        "description": "ContinuousInspection"
+    },
+    {
+        "header": "taozhaoping/ERP",
+        "url": "https://github.com/taozhaoping/ERP",
+        "star": "175",
+        "language": "Java",
+        "description": "ERP系统（订单,库存,加工）"
+    },
+    {
+        "header": "Fanping/iveely.search",
+        "url": "https://github.com/Fanping/iveely.search",
+        "star": "325",
+        "language": "Java",
+        "description": "Purejavarealizesearchengine,trytodirectlyhittheuser'ssearchforanswers."
+    },
+    {
+        "header": "chrisboyle/sgtpuzzles",
+        "url": "https://github.com/chrisboyle/sgtpuzzles",
+        "star": "440",
+        "language": "C",
+        "description": "AndroidportofSimonTatham'sPuzzles"
+    },
+    {
+        "header": "nylen/d3-process-map",
+        "url": "https://github.com/nylen/d3-process-map",
+        "star": "416",
+        "language": "PHP",
+        "description": "Webapplicationtoillustratetherelationshipsbetweenobjectsinaprocessusingd3.js."
+    },
+    {
+        "header": "arpitnarechania/d3-molecule",
+        "url": "https://github.com/arpitnarechania/d3-molecule",
+        "star": "41",
+        "language": "HTML",
+        "description": "D3basedinteractivevisualizationlibrary+tooltomakerenderatomsandmoleculeslearningchemicalbondinginafunway."
+    },
+    {
+        "header": "fzaninotto/CodeFlower",
+        "url": "https://github.com/fzaninotto/CodeFlower",
+        "star": "643",
+        "language": "JavaScript",
+        "description": "SourcecodevisualizationutilitywritteninJavaScriptwithd3.js.Doesyourcodelookbeautiful?"
+    },
+    {
+        "header": "laravel/laravel",
+        "url": "https://github.com/laravel/laravel",
+        "star": "70497",
+        "language": "PHP",
+        "description": "Laravelisawebapplicationframeworkwithexpressive,elegantsyntax.We’vealreadylaidthefoundationforyournextbigidea—freeingyoutocreatewithoutsweatingthesmallthings."
+    },
+    {
+        "header": "cycorp/cycorp.github.io",
+        "url": "https://github.com/cycorp/cycorp.github.io",
+        "star": "9",
+        "language": "HTML",
+        "description": "TheCycDeveloperCenter."
+    },
+    {
+        "header": "leanote/leanote",
+        "url": "https://github.com/leanote/leanote",
+        "star": "10951",
+        "language": "JavaScript",
+        "description": "NotJustANotepad!(golang+mongodb)http://leanote.org"
+    },
+    {
+        "header": "tvbarthel/ChaseWhisplyProject",
+        "url": "https://github.com/tvbarthel/ChaseWhisplyProject",
+        "star": "521",
+        "language": "Java",
+        "description": "anaugmentedrealityattempt"
+    },
+    {
+        "header": "DmitryBaranovskiy/raphael",
+        "url": "https://github.com/DmitryBaranovskiy/raphael",
+        "star": "11099",
+        "language": "JavaScript",
+        "description": "JavaScriptVectorLibrary"
+    },
+    {
+        "header": "maxinfang/FaultTree",
+        "url": "https://github.com/maxinfang/FaultTree",
+        "star": "1",
+        "language": "JavaScript",
+        "description": ""
+    },
+    {
+        "header": "balodja/fault-tree-dia",
+        "url": "https://github.com/balodja/fault-tree-dia",
+        "star": "1",
+        "language": "Shell",
+        "description": "SheetsfordrawingfaulttreesinDia."
+    },
+    {
+        "header": "dbueno/IC3ref",
+        "url": "https://github.com/dbueno/IC3ref",
+        "star": "1",
+        "language": "C++",
+        "description": "IC3referenceimplementation:ashort,simple,fairlycompetitiveimplementationofIC3.Readit,tuneit,extendit,playwithit."
+    },
+    {
+        "header": "rohitdureja/SimplePDR",
+        "url": "https://github.com/rohitdureja/SimplePDR",
+        "star": "4",
+        "language": "C++",
+        "description": "AreferenceimplementationofPDRforbooleantransitionsystems"
+    },
+    {
+        "header": "paparazzi/paparazzi",
+        "url": "https://github.com/paparazzi/paparazzi",
+        "star": "1305",
+        "language": "C",
+        "description": "Paparazziisafreeandopen-sourcehardwareandsoftwareprojectforunmanned(air)vehicles.Thisisthemainsoftwarerepository."
+    },
+    {
+        "header": "arbrad/IC3ref",
+        "url": "https://github.com/arbrad/IC3ref",
+        "star": "34",
+        "language": "C++",
+        "description": "IC3referenceimplementation:ashort,simple,fairlycompetitiveimplementationofIC3.Readit,tuneit,extendit,playwithit."
+    },
+    {
+        "header": "tulip-control/tulip-control",
+        "url": "https://github.com/tulip-control/tulip-control",
+        "star": "95",
+        "language": "Python",
+        "description": "TemporalLogicPlanningtoolbox"
+    },
+    {
+        "header": "SonsOfTone/RaspberrIP-Camera",
+        "url": "https://github.com/SonsOfTone/RaspberrIP-Camera",
+        "star": "89",
+        "language": "C",
+        "description": "RaspberryIPCamera-HDH264StreamOverRTSP-LowLatency"
+    },
+    {
+        "header": "x86driver/socket",
+        "url": "https://github.com/x86driver/socket",
+        "star": "20",
+        "language": "C",
+        "description": "Linuxsocketcode"
+    }
+]
